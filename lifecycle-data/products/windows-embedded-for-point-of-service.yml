@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows integreret til punkt på service
+  description: Windows Integreret til punkt på service-stedet følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fbfd3d13009c5b34a5ef92a78e76149f30ec707d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "811030"
+name: Windows integreret til punkt på service
+summary: >
+  Windows Integreret til punkt på service-stedet følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Supporten til dette produkt er ophørt.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/06/2005
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 3
+  startDate: 10/07/2008
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 06/06/2005
+  endDate: 10/12/2010
+content: "\n## <a name=\"links\"></a>Links \n* [Understøttelse af Windows Integreret til punkt for service](https://support.microsoft.com/help/18581)"

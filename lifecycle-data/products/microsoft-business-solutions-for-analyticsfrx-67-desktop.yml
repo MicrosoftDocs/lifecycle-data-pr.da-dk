@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Business Solutions til Analytics --FRx 6.7-pc
+  description: Microsoft Business Solutions til Analytics --FRx 6.7 Desktop følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "811196"
+name: Microsoft Business Solutions til Analytics --FRx 6.7-pc
+summary: >+
+  Microsoft Business Solutions til Analytics --FRx 6.7 Desktop følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/30/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/30/2004
+  endDate: 07/08/2014
+content: "\n\n> [!NOTE]\n> FRx-understøttelsen slutter på den angivne dato, medmindre den distribueres som en komponent i et Dynamics-produkt. Når dynamicslivscyklusdatoerne distribueres med et Dynamics-produkt, tilsidesætter de FRx-datoerne."

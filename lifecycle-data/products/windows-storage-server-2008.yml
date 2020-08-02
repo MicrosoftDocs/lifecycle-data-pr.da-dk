@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2008
+  description: Windows Storage Server 2008 følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "810493"
+name: Windows Storage Server 2008
+summary: >
+  Windows Storage Server 2008 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+
+
+  Dette gælder for følgende udgaver: Grundlæggende, Grundlæggende 32-bit, Grundlæggende 64-bit, Grundlæggende integreret, grundlæggende integreret 32-bit, integreret virksomhed, integreret virksomhed, standard, standard integreret, arbejdsgruppe
+
+
+  > [!IMPORTANT]
+
+  > Dette produkt har nået slutningen af support. Se nedenfor for at få vejledning i migrering.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+- version: Service Pack 2
+  startDate: 07/19/2009
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Oplysninger om serveropgradering](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Grundlæggende\n* Grundlæggende 32-bit\n* Grundlæggende 64-bit\n* Grundlæggende integreret\n* Grundlæggende integreret 32-bit\n* Enterprise\n* Integreret virksomhed\n* Standard\n* Standard integreret\n* Arbejdsgruppe"

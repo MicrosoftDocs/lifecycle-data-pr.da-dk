@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "810541"
+name: Microsoft Visual Studio 2005
+summary: >+
+  Microsoft Visual Studio 2005 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+
+
+  Dette gælder for følgende udgaver: professionel, standard, standardudgave akademisk licens, Team Edition for Database Professionals, Team Edition for Software Arkitekter, Team Edition for SoftwareUdviklere, Team Edition for Software Testere, Team Suite, Team Test Load Agent, Værktøjer til Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om Understøttelse af Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Vejledning i migration](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Produktoplysninger om Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Supporten til dette produkt er ophørt. Se nedenfor for at få vejledning i migrering.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition til Database Professionals udgivet den 2.\n\n## <a name=\"editions\"></a>Udgaver \n* Professionel\n* Standard\n* Akademisk standardudgave\n* Team Edition til fagfolk inden for databaser\n* Team Edition til softwarearkitekter\n* Team Edition til softwareudviklere\n* Team Edition til softwaretestere\n* Team Suite\n* Belastningsagent for teamtest\n* Værktøjer til Microsoft Office-systemet\n* VB Express\n* Visuel C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visuel webudviklerEkspres"

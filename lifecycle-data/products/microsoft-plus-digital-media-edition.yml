@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Plus! Digital Media Edition
+  description: Microsoft Plus! Digital Media Edition følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 70735dde8da269fd12ebf6dabba3dcdbe33fbe76
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "810558"
+name: Microsoft Plus! Digital Media Edition
+summary: >+
+  Microsoft Plus! Digital Media Edition følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/12/2003
+  end: 04/08/2008
+releases:
+- version: Original Release
+  startDate: 03/12/2003
+  endDate: 04/08/2008
+content: ''

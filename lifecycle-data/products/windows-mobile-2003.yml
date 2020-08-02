@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Mobile 2003
+  description: Windows Mobile 2003 følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "811015"
+name: Windows Mobile 2003
+summary: >
+  Windows Mobile 2003 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+
+
+  Dette gælder for følgende udgaver: til Pocket PC, til smartphones, Second Edition-software til Pocket PC Phone, Second Edition-software til Smartphone
+
+
+  > [!IMPORTANT]
+
+  > Supporten til dette produkt er ophørt.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/31/2004
+  endDate: 07/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>Udgaver \n* til Pocket PC\n* til smartphones\n* Second Edition-software til Pocket PC Phone\n* Second Edition-software til Smartphone"

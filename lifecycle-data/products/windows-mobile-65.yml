@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Mobile 6.5
+  description: Windows Mobile 6.5 følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28da232d32da22a3b3ad4d3bf76e3bcf17609a1e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "811017"
+name: Windows Mobile 6.5
+summary: >
+  Windows Mobile 6.5 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+
+
+  Dette gælder for følgende udgaver: Professional, Standard
+
+
+  > [!IMPORTANT]
+
+  > Supporten til dette produkt er ophørt.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/10/2009
+  end: 01/08/2013
+releases:
+- version: Original Release
+  startDate: 09/10/2009
+  endDate: 01/08/2013
+content: "\n\n\n## <a name=\"editions\"></a>Udgaver \n* Professionel\n* Standard"

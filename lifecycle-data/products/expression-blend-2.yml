@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Udtryk 2
+  description: Udtryk 2 følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "810592"
+name: Udtryk 2
+summary: "Udtryk 2 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.\n\nDette gælder for følgende udgaver: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Support er ophørt for dette produkt. \n"
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 07/24/2008
+  end: 10/08/2013
+  extendedEnd: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 07/24/2008
+  endDate: 10/09/2018
+content: "\n\n\n## <a name=\"editions\"></a>Udgaver \n* Blanding\n* Design\n* Encoder\n* Studio\n* Web"

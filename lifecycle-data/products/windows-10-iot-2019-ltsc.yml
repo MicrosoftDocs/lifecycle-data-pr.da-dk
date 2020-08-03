@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 IoT 2019 LTSC
+  description: Windows 10 IoT 2019 LTSC følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868572"
+name: Windows 10 IoT 2019 LTSC
+summary: >+
+  Windows 10 IoT 2019 LTSC følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+
+
+  Dette gælder for følgende udgaver: Core, Enterprise
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Links \n* [Windows 10 IoT-kernetjenester](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [oktober (version 1809) blev genudgivne den 13. Supportdatoerne er blevet justeret i overensstemmelse hermed.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows som en tjeneste (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Ofte stillede spørgsmål om Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10 langfristede servicekanal\n\n## <a name=\"editions\"></a>Udgaver \n* Core\n* Enterprise"

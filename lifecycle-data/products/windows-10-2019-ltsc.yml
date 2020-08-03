@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 2019 LTSC
+  description: Windows 10 2019 LTSC følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9d9eeef3c451afda756aff4666fb85da889772e9
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868598"
+name: Windows 10 2019 LTSC
+summary: >+
+  Windows 10 2019 LTSC følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+
+
+  Dette gælder for følgende udgaver: Enterprise
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Links \n* [Opdatering til Windows 10 oktober (version 1809) genudgivelse](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Ofte stillede spørgsmål om Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows som en tjeneste (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Enterprise"

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Korrekturredskaber til Microsoft Office 2003
+  description: Korrekturredskaber til Microsoft Office 2003 følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "811515"
+name: Korrekturredskaber til Microsoft Office 2003
+summary: >+
+  Korrekturredskaber til Microsoft Office 2003 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 12/08/2003
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 12/08/2003
+  endDate: 01/14/2014
+content: ''

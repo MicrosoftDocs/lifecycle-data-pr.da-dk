@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Håndholdt Windows-8.1
+  description: Windows Integreret 8.1 Håndholdt følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851612"
+name: Håndholdt Windows-8.1
+summary: >
+  Windows Integreret 8.1 Håndholdt følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Supporten til dette produkt er ophørt. Hvis din organisation stadig vedligeholder disse platforme og har yderligere spørgsmål, skal du kontakte dit kontoteam.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Links \n* [Windows 10 IoT](/windows/iot-core/windows-iot-core)"

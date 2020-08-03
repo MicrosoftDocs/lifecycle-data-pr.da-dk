@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 7.8
+  description: Windows Phone 7.8 følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851606"
+name: Windows Phone 7.8
+summary: >
+  Windows Phone 7.8 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Supporten til dette produkt er ophørt.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 02/09/2013
+  end: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 02/09/2013
+  endDate: 10/14/2014
+content: "\n\n> [!NOTE]\n> Microsoft gør opdateringer tilgængelige for operativsystemet på din telefon, herunder sikkerhedsopdateringer, i en periode på 18 måneder efter livscyklusstartdatoen. Distributionen af opdateringerne kan styres af mobiloperatøren eller den telefonproducent, hvorfra du har købt telefonen. Tilgængeligheden af opdateringer varierer også fra land til område og fra område til område."

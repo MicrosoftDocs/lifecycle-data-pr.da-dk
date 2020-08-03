@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: Visual Studio 2013 følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851615"
+name: Visual Studio 2013
+summary: >+
+  Visual Studio 2013 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+
+
+  Dette gælder for følgende udgaver: Agenter, Alle, Fællesskab, Express til web, Express til Windows, Express til Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Isolated), Shell (Isolated), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om vedligeholdelse](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Agenter\n* Alle\n* Community\n* Ekspres til internettet\n* Ekspresser til Windows\n* Express til Windows-skrivebordet\n* IntelliTrace Samler\n* Modellering SDK\n* Multibyte MFC Bibliotek\n* Premium\n* Professionel\n* Administration af udgivelse\n* Fjernværktøjer\n* Sdk\n* Skal (integreret)\n* Skal (isoleret)\n* Team Explorer\n* Test Professionel\n* Ultimative\n* Visual C++ Redistributable\n* Udvidelser af webværktøjer"

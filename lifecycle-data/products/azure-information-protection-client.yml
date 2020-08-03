@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure-klient til beskyttelse af oplysninger
+  description: Azure Information Protection-klienten følger politikken for moderne livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851132"
+name: Azure-klient til beskyttelse af oplysninger
+summary: >+
+  Azure Information Protection-klienten følger [politikken](/lifecycle/policies/modern) for moderne livscyklus.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2016
+  end: 03/31/2021
+releases:
+- version: Original Release
+  startDate: 10/01/2016
+  endDate: 03/31/2021
+content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om vedligeholdelse](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Vejledning i migration](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> For at give en samlet og strømlinet kundeoplevelse frarådes Azure Information Protection-klienten (klassisk) og Label Management på Azure Portal pr. 31. Denne tidsramme giver alle nuværende Azure Information Protection-kunder mulighed for at skifte til vores unified labeling-løsning ved hjælp af Microsoft Information Protection Unified Labeling-platformen."

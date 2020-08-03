@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Duet Enterprise til Microsoft SharePoint og SAP
+  description: Duet Enterprise til Microsoft SharePoint og SAP følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851420"
+name: Duet Enterprise til Microsoft SharePoint og SAP
+summary: >
+  Duet Enterprise til Microsoft SharePoint og SAP følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Supporten til dette produkt er ophørt. Dette produkt sælges og understøttes af SAP.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/16/2011
+  end: 12/31/2017
+  extendedEnd: 12/31/2017
+releases:
+- version: version 2.0
+  startDate: 10/14/2012
+  endDate: 12/31/2017
+- version: Original Release
+  startDate: 03/16/2011
+  endDate: 12/31/2017
+content: "\n## <a name=\"links\"></a>Links \n* [SAP-support](https://support.sap.com/index.html)"

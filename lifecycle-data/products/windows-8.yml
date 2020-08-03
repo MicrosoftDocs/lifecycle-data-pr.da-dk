@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 8
+  description: Windows 8 følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851390"
+name: Windows 8
+summary: >
+  Windows 8 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+
+
+  Dette gælder for følgende udgaver: Enterprise, Enterprise N, N, Pro med Media Center, Professional, Professional N
+
+
+  > [!IMPORTANT]
+
+  > Supporten til dette produkt er ophørt. Kunderne skal opdatere til Windows 8.1 for at forblive understøttet.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Links \n* [Ofte stillede spørgsmål om livscyklus – Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Enterprise\n* Virksomhed N\n* N\n* Pro med Media Center\n* Professionel\n* Professionel N"

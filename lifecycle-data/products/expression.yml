@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Udtryk
+  description: Udtrykket følger politikken for fast livscyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867359"
+name: Udtryk
+summary: "Udtrykket følger politikken [for](/lifecycle/policies/fixed) fast livscyklus.\n\nDette gælder for følgende udgaver: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. \n"
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 07/27/2007
+  end: 10/09/2012
+  extendedEnd: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 07/27/2007
+  endDate: 10/10/2017
+content: "\n\n> [!NOTE]\n> Startdatoen for Expression Blend er 13. \n\n## <a name=\"editions\"></a>Udgaver \n* Blanding\n* Design\n* Encoder\n* Studio"

@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft SQL Server 2008
   description: Microsoft SQL Server 2008 følger politikken for fast livscyklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8dd6dece999e9bea86eb5b4172ae47f925fa2772
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/03/2020
+  ms.openlocfilehash: 15d47cb19d68d2ebb70659d43f7341eba2db1663
+  ms.sourcegitcommit: ea5579a833360652f47792f68134e2b25be4d487
   ms.translationtype: MT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "811116"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882209"
 name: Microsoft SQL Server 2008
 summary: >
   Microsoft SQL Server 2008 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
 
 
-  Dette gælder for følgende udgaver: Udvikler, Enterprise, Express, Express med avancerede tjenester, Standard, Standard Edition til mindre virksomheder, web, arbejdsgruppe
+  Dette gælder for følgende udgaver: Datacenter, Udvikler, Enterprise, Express, Express med avancerede tjenester, Standard, Standard Edition til mindre virksomheder, web, arbejdsgruppe
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 11/06/2008
   endDate: 04/13/2010
-content: "> [!TIP]\n> Udvidede sikkerhedsopdateringer (ESU) er tilgængelige for udgaverne Datacenter, Standard, Enterprise, Web, Workgroup og Embedded af dette produkt i op til yderligere tre år efter supportens ophør.\n\n## <a name=\"links\"></a>Links \n* [Udvidet sikkerhedsopdateringsprogram (ESU)](/lifecycle/faq/extended-security-updates)\n* [SQL Release Services Blog](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n* [Vejledning i migration](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Kun for IA64 understøttes SP3 indtil 9-07-2019.\n\n## <a name=\"editions\"></a>Udgaver \n* Forfatter\n* Enterprise\n* Express\n* Ekspres med avancerede tjenester\n* Standard\n* Standardudgave til mindre virksomheder\n* Web\n* Arbejdsgruppe"
+content: "> [!TIP]\n> Udvidede sikkerhedsopdateringer (ESU) er tilgængelige for datacenter-, standard-, virksomheds-, web- og arbejdsgruppeudgaverne af dette produkt i op til yderligere tre år efter ophør af support.\nUdgivelsesdato ------------------------------- startdato----End dato\n\nUdvidet sikkerhedsopdatering år 3---07/13/2021---07/12/2022\n\nUdvidet sikkerhedsopdatering år 2---07/14/2021---07/13/2021\n\nUdvidet sikkerhedsopdatering år 1---07/9/2019---07/14/2020\n\n\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n* [Udvidet sikkerhedsopdateringsprogram (ESU)](/lifecycle/faq/extended-security-updates)\n* [SQL Release Services Blog](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n\n> [!NOTE]\n> Kun for IA64 understøttes SP3 indtil 9-07-2019.\n\n## <a name=\"editions\"></a>Udgaver \n* Datacenter\n* Forfatter\n* Enterprise\n* Express\n* Ekspres med avancerede tjenester\n* Standard\n* Standardudgave til mindre virksomheder\n* Web\n* Arbejdsgruppe"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 11
-  description: Internet Explorer 11 følger komponentlivspolitikken.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4c247083877fd4640384b3a038a13888e2f4ddcd
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Internet Explorer 11 følger politik for komponent livscyklus.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851297"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893640"
 name: Internet Explorer 11
 summary: >+
-  Internet Explorer 11 følger [komponentlivspolitikken.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Internet Explorer 11 følger politik for [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscyklus.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://www.microsoft.com/itpro/microsoft-edge)\n* [Ofte stillede spørgsmål om Internet Explorer-livscykluspolitik](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> januar 2016 er det kun den nyeste version af Internet Explorer, der er tilgængelig for et understøttet operativsystem, der modtager teknisk support og sikkerhedsopdateringer."
+content: "\n## <a name=\"links\"></a>Links \n* [Overførsels vejledning](https://www.microsoft.com/itpro/microsoft-edge)\n* [Ofte stillede spørgsmål om Internet Explorer-livscykluspolitik](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Fra og med januar 12, 2016, er det kun den nyeste version af Internet Explorer, der er tilgængelig for et understøttet operativsystem, der modtager teknisk support og sikkerhedsopdateringer."

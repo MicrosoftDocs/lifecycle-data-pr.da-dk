@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Søg i oplysninger om produkt- og servicelivscyklus (eksempel)
+title: Søge efter oplysninger om levetiden for produkter og tjenester (Preview)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Denne side er under udvikling. Du kan finde en komplet liste over Microsoft-produkter og deres supporttidslinje og -detaljer [på aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Eksporter livscyklusoplysninger fra [siden Eksport af livscyklus.](/lifecycle/export/products)\n\n\nMicrosoft Lifecycle indeholder ensartede og forudsigelige retningslinjer for support i hele et produkts levetid, hvilket hjælper kunderne med at administrere deres it-investeringer og -miljøer, samtidig med at de planlægger strategisk i fremtiden.\n\n\nSøg nedenfor efter en liste over Microsofts kommercielle produkter og tjenester, og vælg derefter dit resultat for at finde support- og vedligeholdelsestidslinje, påkrævede opdateringer, overførselsoplysninger og systemkrav."
+summary: "\n\n> [!IMPORTANT]\n> Denne side er under udvikling og er fuldt live på September 2. I mellemtiden kan du få vist en komplet liste over Microsoft-produkter, som understøtter tidslinjer og oplysninger på [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Eksportér oplysninger om livscyklusser fra eksport siden for [livscyklussen](/lifecycle/export/products) .\n\n\nMicrosoft livscyklus leverer ensartede og forudsigelige retningslinjer for support i hele produktets levetid, så kunder kan administrere deres IT-investeringer og miljøer, mens de planlægges til senere.\n\n\nSøg nedenfor for at få en liste over Microsoft Commercial-produkter og-tjenester, og vælg derefter dit resultat for at finde support-og service frister, nødvendige opdateringer, Overførselsoplysninger og systemkrav."
 metadata:
-  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
-  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
+  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
+  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
   ms.translationtype: MT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882430"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "899833"

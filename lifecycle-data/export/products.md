@@ -1,27 +1,27 @@
 ---
-title: Eksportere produkter
+title: Eksport af data for livscyklus
 description: Eksportere oplysninger om produktlivscyklus
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899796"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902396"
 ---
-# <a name="export"></a>Eksportfil
+# <a name="lifecycle-data-export"></a>Eksport af data for livscyklus
 
 > [!IMPORTANT]
 > Denne side er under udvikling.
 
 ## <a name="export-all-products"></a>Eksportér alle produkter
-Eksportér alle produkter uden filtre.
+Eksportér livscyklus data for alle produkter ved at klikke herunder:
 
 > [!div class="nextstepaction"]
 > [Eksportér alle produkter](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Eksportere produkter efter kategori
-Vælg en gruppering, der skal eksporteres:
+## <a name="export-products-by-family-and-group"></a>Eksportere produkter efter familie og gruppe
+Vælg en familie og derefter en gruppe, der skal eksporteres. Bemærk: eksporten starter, når Gruppeværdien er markeret. 
 
 > [!div class="op_multi_selector" title1="Pc'er" title2="Gruppe"]
 > - [(.NET | Alle](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Vælg en gruppering, der skal eksporteres:
 > - [(Windows | Advarsel](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Replikaserveren](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Eksportér produkter ved afslutning af support året
-Vælg et år for at eksportere produkter, der afslutter tjenesten i det pågældende år:
+## <a name="export-products-by-end-of-support-date"></a>Eksportere produkter ved hjælp af dato for ophør
+Vælg et år for at få vist produkter, når du når til sidst i support. Bemærk: eksporten begynder, når år-værdi er valgt.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))

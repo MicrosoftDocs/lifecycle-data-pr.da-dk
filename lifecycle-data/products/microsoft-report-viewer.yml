@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft rapportvisning
+  description: Microsoft Report Viewer følger den moderne politik for livscyklus.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 9025fd3d1b84a581d70de562ab977e3aa01870fb
+  ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
+  ms.translationtype: MT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "904822"
+name: Microsoft rapportvisning
+summary: >+
+  Microsoft Report Viewer følger den [moderne](/lifecycle/policies/modern) politik for livscyklus.
+
+
+products:
+- sql-server
+policyType: modern-online
+supportDates:
+  start: 11/30/2016
+releases:
+- version: Original Release
+  startDate: 11/30/2016
+content: ''

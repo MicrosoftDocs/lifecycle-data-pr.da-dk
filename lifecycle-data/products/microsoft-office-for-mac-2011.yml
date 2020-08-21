@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851243"
 name: Microsoft Office til Mac 2011
 summary: >+
-  Microsoft Office til Mac 2011 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Office til Mac 2011 følger politikken for den [Faste](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
+  Dette gælder for de følgende versioner: Academic, Home og Business, Home og Business Home Use Program, Home og Student, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Generel support til Microsoft Office til Mac 2011 udvides som vist for at give alle kunder standardtidsstilling i livscyklussen.\n\n## <a name=\"editions\"></a>Udgaver \n* Akademiske\n* Hjem og erhverv\n* Hjemme- og virksomhedsprogram til hjemmet\n* Hjem og Studerende\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Generel support til Microsoft Office til Mac 2011 udvides som vist her, for at give alle kunder en standard livscyklusovergangs-tidslinje.\n\n## <a name=\"editions\"></a>Versioner \n* Academic\n* Home and Business\n* Home and Business Home Use program\n* Home and Student\n* Standard"

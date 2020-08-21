@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Identity Manager 2016
-  description: Microsoft Identity Manager 2016 følger politikken for fast livscyklus.
+  description: Microsoft Identity Manager 2016 følger politikken for Fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851273"
 name: Microsoft Identity Manager 2016
 summary: >+
-  Microsoft Identity Manager 2016 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Identity Manager 2016 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2015
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Azure Support er tilgængelig for Azure AD-integrationskomponenter ved udgangen af udvidet support til Microsoft Identity Manager 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure-supportplaner.](https://azure.microsoft.com/support/plans/)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n* [Produktinformation](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+content: "\n## <a name=\"links\"></a>Links \n* [Azure Support er tilgængelig for Azure AD-integrationskomponenter til slutningen af Udvidet support for Microsoft Identity Manager 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure-supportplaner.](https://azure.microsoft.com/support/plans/)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n* [Produktinformation](/microsoft-identity-manager/microsoft-identity-manager-2016)"

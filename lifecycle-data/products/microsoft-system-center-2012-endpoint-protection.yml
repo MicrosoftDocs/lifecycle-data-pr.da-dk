@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Beskyttelse af slutpunktspunkter i Microsoft System Center 2012
-  description: Microsoft System Center 2012-slutpunktsbeskyttelse følger politikken for fast livscyklus.
+  title: Microsoft System Center 2012 Endpoint Protection
+  description: Microsoft System Center 2012 Endpoint Protection følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851357"
-name: Beskyttelse af slutpunktspunkter i Microsoft System Center 2012
+name: Microsoft System Center 2012 Endpoint Protection
 summary: >+
-  Microsoft System Center 2012-slutpunktsbeskyttelse følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft System Center 2012 Endpoint Protection følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: til Mac
+  Dette gælder for de følgende versioner: til Mac
 
 products:
 - msc
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om vedligeholdelse](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Vejledning i migration](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n* [Dokumentation til Systemcenter](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Kunderne skal holde sig opdateret med den seneste opdatering til antimalwareplatform for at få fuld støtte.\n\n## <a name=\"editions\"></a>Udgaver \n* til Mac"
+content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om servicering](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Vejledning om migrering](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n* [System Center Dokumentation](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Kunderne skal holde sig opdateret med den seneste opdatering til antimalwareplatform for at få fuld støtte.\n\n## <a name=\"editions\"></a>Versioner \n* Til Mac"

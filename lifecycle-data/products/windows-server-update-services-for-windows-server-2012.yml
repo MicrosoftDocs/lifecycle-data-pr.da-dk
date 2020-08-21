@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4c901f9ed6f882c8009f8c6ea1df3cf55ac81d7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851511"
 name: Windows Server Update Services til Windows Server 2012
 summary: >+
-  Windows Server Update Services til Windows Server 2012 følger [politikken for](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) komponentlivscyklus.
+  Windows Server Update Services til Windows Server 2012 følger politikken for [komponentlivscyklus](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 content: >-
   > [!TIP]
 
-  > Denne komponent følger livscyklussen for det overordnede produkt, Windows Server 2012.
+  > Denne komponent følger livscyklussen for dens overordnede produkt, Windows Server 2012.

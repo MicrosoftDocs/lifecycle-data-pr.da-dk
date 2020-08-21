@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront-slutpunktsbeskyttelse 2010
-  description: Microsoft Forefront Endpoint Protection 2010 følger politikken for fast livscyklus.
+  title: Microsoft Forefront Endpoint Protection 2010
+  description: Microsoft Forefront Endpoint Protection 2010 følger politikken for fast livcyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851453"
-name: Microsoft Forefront-slutpunktsbeskyttelse 2010
+name: Microsoft Forefront Endpoint Protection 2010
 summary: >
-  Microsoft Forefront Endpoint Protection 2010 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Forefront Endpoint Protection 2010 følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
 
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2011
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Oplysninger om vedligeholdelse](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Kunderne skal holde sig opdateret med den seneste opdatering til antimalwareplatform for at få fuld støtte. Forefront Endpoint Protection 2010 er omfattet af den samme livscykluspolitik som System Center Configuration Manager 2007 til både generel og udvidet support."
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Oplysninger om servicering](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Kunderne skal holde sig opdateret med den seneste opdatering til antimalwareplatform for at få fuld support. Forefront Endpoint Protection 2010 er omfattet af den samme livcykluspolitik som System Center Configuration Manager 2007 til både generel og udvidet support."

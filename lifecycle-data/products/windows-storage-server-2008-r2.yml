@@ -5,21 +5,21 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851510"
 name: Windows Storage Server 2008 R2
 summary: >
-  Windows Storage Server 2008 R2 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Windows Storage Server 2008 R2 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Essentials, Standard
+  Dette gælder for de følgende versioner: Essentials, standard
 
 
   > [!IMPORTANT]
 
-  > Supporten til dette produkt er ophørt. Se vejledningen til migrering nedenfor.
+  > Understøttelse af dette produkt er ophørt Se vejledningen til migrering nedenfor.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om ophør af support](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Vejledning i migration](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Ofte stillede spørgsmål om udvidet sikkerhedsopdatering](/lifecycle/faq/extended-security-updates)\n* [Oplysninger om serveropgradering](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials udgave udgivet den 28 juni 2011.\n\n## <a name=\"editions\"></a>Udgaver \n* Nødvendige\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Dato for ophør af support](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Vejledning om migrering](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Ofte stillede spørgsmål om udvidet sikkerhedsopdatering ](/lifecycle/faq/extended-security-updates)\n* [Oplysninger om serveropgradering](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials udgave udgivet den 28. juni 2011.\n\n## <a name=\"editions\"></a>Versioner \n* Essentials\n* Standard"

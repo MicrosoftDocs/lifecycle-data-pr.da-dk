@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851393"
 name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Visual Studio 2015 følger politikken for den [Faste](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Agenter, Community, Enterprise, Express for Web, Express til Windows 10, Express til Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, Visual C++ Redistributable
+  Dette gælder for de følgende versioner: Agents, Community, Enterprise, Express til web, Express til Windows 10, Express til Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om vedligeholdelse](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Agenter\n* Community\n* Enterprise\n* Ekspres til internettet\n* Express til Windows 10\n* Express til Windows-skrivebordet\n* Modellering SDK\n* Professionel\n* Administration af udgivelse\n* Fjernværktøjer\n* Sdk\n* Skal (integreret)\n* Skal (isoleret)\n* Test Professionel\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om servicering](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Agents\n* Community\n* Enterprise\n* Express til Web\n* Express til Windows 10\n* Express til Windows Desktop\n* Modeling SDK\n* Professional\n* Administration af udgivelse\n* Fjernværktøjer\n* SDK\n* Shell (integreret)\n* Shell (isoleret)\n* Test Professional\n* Visual C++ Redistributable"

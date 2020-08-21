@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servicebus til Windows Server
+  title: Service Bus til Windows Server
   description: Service Bus til Windows Server følger politikken for komponentlivscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851351"
-name: Servicebus til Windows Server
+name: Service Bus til Windows Server
 summary: >
-  Service Bus til Windows Server følger [politikken for](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) komponentlivscyklus.
+  Service Bus til Windows Server følger politikken for [Komponentlivscyklus](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 

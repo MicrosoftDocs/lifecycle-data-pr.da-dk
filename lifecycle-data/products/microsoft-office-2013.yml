@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851589"
 name: Microsoft Office 2013
 summary: >+
-  Microsoft Office 2013 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Microsoft Office 2013 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Hjem og Erhverv, Hjem og Studerende, Professionel, Professional Plus, Professional Plus Home Use Program, Standard, Web Apps Server
+  Dette gælder for de følgende versioner: Home og Business, Home og Student, Professional, Professional Plus, Professional Plus Home Use Program, Standard, Web Apps Server
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 gælder ikke for Web Apps Server-udgaven. \n\n## <a name=\"editions\"></a>Udgaver \n* Hjem og erhverv\n* Hjem og Studerende\n* Professionel\n* Professionelt plus\n* Professionelt Plus-program til hjemmebrug\n* Standard\n* Web Apps Server"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 gælder ikke for Web Apps Server-udgaven. \n\n## <a name=\"editions\"></a>Versioner \n* Home and Business\n* Home and Student\n* Professional\n* Professional Plus\n* Professionelt Plus Home Use Program\n* Standard\n* Web Apps Server"

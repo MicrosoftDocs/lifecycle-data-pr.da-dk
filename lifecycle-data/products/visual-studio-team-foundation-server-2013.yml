@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851524"
 name: Visual Studio Team Foundation Server 2013
-summary: >+
-  Visual Studio Team Foundation Server 2013 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
-
-
-  Dette gælder for følgende udgaver: Alle, Release Management
-
+summary: "Visual Studio Team Foundation Server 2013 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus. \n\nDette gælder for de følgende versioner: Alle, Release Management\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Produktinformation](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Oplysninger om vedligeholdelse](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> For Release Management Server til TFS 2013 understøttes opdatering 4 i henhold til politikretningslinjerne indtil den 4.9.2024.\n\n## <a name=\"editions\"></a>Udgaver \n* Alle\n* Administration af udgivelse"
+content: "\n## <a name=\"links\"></a>Links \n* [Produktinformation](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Oplysninger om servicering](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Politik om servicepakker](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> For Release Management Server til TFS 2013 understøttes opdatering 4 i henhold til politikretningslinjerne indtil den 9/4-2024.\n\n## <a name=\"editions\"></a>Versioner \n* Alle\n* Administration af udgivelse"

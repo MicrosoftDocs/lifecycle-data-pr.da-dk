@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851239"
 name: Microsoft SQL Server 2012
 summary: >+
-  Microsoft SQL Server 2012 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Microsoft SQL Server 2012 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, for Embedded Systems, Standard, Web
+  Dette gælder for de følgende versioner: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, til Embedded Systems, Standard, Web
 
 products:
 - sql-server
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Business Intelligence\n* Forfatter\n* Enterprise\n* Kerne til virksomheder\n* Express\n* til integrerede systemer\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* til Embedded Systems\n* Standard\n* Web"

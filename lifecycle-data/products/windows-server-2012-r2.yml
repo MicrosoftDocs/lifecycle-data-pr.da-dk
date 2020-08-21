@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 35b2c5868387b3f6aa94bc41d2674c8ea7286aa6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851183"
 name: Windows Server 2012 R2
 summary: >+
-  Windows Server 2012 R2 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Windows Server 2012 R2 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
+  Dette gælder for de følgende versioner: Datacenter, Essentials, til Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Generel og udvidet support til dette produkt er blevet udvidet for at give kunderne standardtidsovergangsovergangen.\n\n## <a name=\"editions\"></a>Udgaver \n* Datacenter\n* Nødvendige\n* til integrerede systemer\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Generel og udvidet support til dette produkt er blevet udvidet for at give kunderne en standardlivscyklusovergangsperiode.\n\n## <a name=\"editions\"></a>Versioner \n* Datacenter\n* Essentials\n* til Embedded Systems\n* Foundation\n* Standard"

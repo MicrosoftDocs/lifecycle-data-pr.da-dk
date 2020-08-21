@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: c074cbdb100e858572f6f6375311034d593055a9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868562"
 name: Windows Server 2019
 summary: >+
-  Windows Server 2019 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Windows Server 2019 følger politikken for [Fast](/lifecycle/policies/fixed) livcyklus.
 
 
-  Dette gælder for følgende udgaver: Datacenter, Essentials, Standard
+  Dette gælder for de følgende versioner: Datacenter, Essentials, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Links \n* [Produktinformation](/windows-server/get-started-19/whats-new-19)\n* [Opdatering af tilgængeligheden af Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [Ofte stillede spørgsmål om livscyklus – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 og Windows Server, version 1809 blev genudgivne den 13. Supportdatoerne er blevet justeret i overensstemmelse hermed.\n\n## <a name=\"editions\"></a>Udgaver \n* Datacenter\n* Nødvendige\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Produktinformation](/windows-server/get-started-19/whats-new-19)\n* [Opdatering om Windows Server 2019 tilgængelighed](https://aka.ms/WSRelaunchBlog)\n* [Ofte stillede spørgsmål om livscyklus – Windowsprodukter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 og Windows Server, version 1809 blev genudgivet den 13. november, 2018. Supportdatoer er blevet justeret herefter.\n\n## <a name=\"editions\"></a>Versioner \n* Datacenter\n* Essentials\n* Standard"

@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 159055d404da77afef0694120dc1c2faf04a22e3
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879073"
 name: Windows 10 IoT Enterprise
 summary: >
-  Windows 10 IoT Enterprise følger [den moderne](/lifecycle/policies/modern) livscykluspolitik.
+  Windows 10 IoT Enterprise følger den [Moderne](/lifecycle/policies/modern) livscykluspolitik.
 
 
 
   > [!IMPORTANT]
 
-  > Microsoft vil fortsat understøtte mindst én halvårskanal i Windows 10 indtil den 14.
+  > Microsoft vil fortsat understøtte mindst én Windows 10 Semi-Annual Channel indtil den 14. oktober, 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -55,4 +55,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Oversigt over Windows 10 IoT Enterprise](/windows/iot-core/windows-iot-enterprise)\n* [Faktaark om Windows-livscyklus](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows som en tjeneste (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Ofte stillede spørgsmål om livscyklus – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Medmindre de efterfølgende opdateringer af windows 10-kanaler kan blive installeret før den angivne slutdato for den generelle supportdato, medmindre de udskydes."
+content: "\n## <a name=\"links\"></a>Links \n* [Oversigt over Windows 10 IoT Enterprise](/windows/iot-core/windows-iot-enterprise)\n* [Faktaark om Windows-livscyklus](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Ofte stillede spørgsmål om livscyklus – Windowsprodukter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Medmindre efterfølgende funktionsopdateringer til Windows 10 Semi-Annual Channel er udsat, kan de installeres før den anførte slutdato for generel support."

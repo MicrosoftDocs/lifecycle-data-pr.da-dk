@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868569"
 name: Windows 10 IoT Core-tjenester
 summary: >+
-  Windows 10 IoT Core-tjenester følger [den](/lifecycle/policies/modern) moderne livscykluspolitik.
+  Windows 10 IoT Core-tjenester følger den [Moderne](/lifecycle/policies/modern) livscykluspolitik.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Windows 10 IoT-kernetjenester](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services er et abonnement, der tilbyder softwaresupport som en tjeneste, herunder opdateringskontrol med Device Update Center og forbedret sikkerhed med Enhedstilstandsteststation, så længe du kører en understøttet version af Windows 10 IoT Core Software."
+content: "\n## <a name=\"links\"></a>Links \n* [Windows 10 IoT Core-tjenester](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core-tjenester er et abonnement, der tilbyder softwaresupport som en tjeneste, herunder opdateringskontrol med Device Update Center og forbedret sikkerhed med Enhedstilstandsattestation, så længe du kører en understøttet version af Windows 10 IoT Core Software."

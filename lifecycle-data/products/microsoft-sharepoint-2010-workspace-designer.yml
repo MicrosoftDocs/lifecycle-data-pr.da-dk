@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (arbejdsområde, designer)
+  title: Microsoft SharePoint 2010 (Workspace, Designer)
   description: Microsoft SharePoint 2010 (Workspace, Designer) følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810553"
-name: Microsoft SharePoint 2010 (arbejdsområde, designer)
+name: Microsoft SharePoint 2010 (Workspace, Designer)
 summary: >+
-  Microsoft SharePoint 2010 (Workspace, Designer) følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft SharePoint 2010 (Workspace, Designer) følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Designer, Workspace
+  Dette gælder for de følgende versioner: Designer, Workspace
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Dokumentation til udviklere](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Produktdokumentation](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Udgaver \n* Designer\n* Arbejdsområde"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Dokumentation til udviklere](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Produktdokumentation](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Versioner \n* Designer\n* Workspace"

@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 36bad214333805bfa18d06a194e9a5748a70baa1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811137"
 name: Microsoft Office Project 2007
 summary: >+
-  Microsoft Office Project 2007 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Microsoft Office Project 2007 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Professional, Standard
+  Dette gælder for de følgende versioner: Professional, standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/office/troubleshoot/support/office-2007-not-support)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Professionel\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/office/troubleshoot/support/office-2007-not-support)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Professional\n* Standard"

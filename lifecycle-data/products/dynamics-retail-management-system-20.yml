@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e587a27011a62b298f9003be9805c2e01b146057
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810847"
 name: Dynamics Retail Management System 2.0
 summary: >+
-  Dynamics Retail Management System 2.0 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Dynamics Retail Management System 2.0 følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Hovedkvarter, Store Operations
+  Dette gælder for de følgende versioner: Headquarters, Store Operations
 
 products:
 - dynamics
@@ -39,4 +39,4 @@ releases:
 - version: Service Pack 1
   startDate: 07/31/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Hovedkvarter\n* Lagerhandlinger"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Headquarters\n* Store Operations"

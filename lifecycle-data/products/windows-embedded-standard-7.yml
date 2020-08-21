@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Integreret standard 7
+  title: Windows Embedded Standard 7
   description: Windows Embedded Standard 7 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811026"
-name: Windows Integreret standard 7
+name: Windows Embedded Standard 7
 summary: >+
-  Windows Embedded Standard 7 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Windows Embedded Standard 7 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Standard
+  Dette gælder for de følgende versioner: Standard
 
 products:
 - windows
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [* Udvidet sikkerhedsopdateringsprogram (ESU) - Udvidede sikkerhedsopdateringer til udvalgte integrerede produkter er tilgængelige via OEM'er](/lifecycle/faq/extended-security-updates)\n* [Vejledning i migration](https://support.microsoft.com/help/4057281)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*Udvidede sikkerhedsopdateringer (ESU) er tilgængelige for Windows Embedded Standard 7 i op til yderligere tre år efter ophør af support via OEM'er. Kontakt din Microsoft-partner eller dit kontoteam for at få mere at vide.\n\n## <a name=\"editions\"></a>Udgaver \n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [*Udvidede sikkerhedsopdateringerprogrammer (ESU) - Udvidede sikkerhedsopdateringer for Embedded produkter er tilgængelige via OEM-producenter.](/lifecycle/faq/extended-security-updates)\n* [Vejledning om migrering](https://support.microsoft.com/help/4057281)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ESU (Extended Security Updates – udvidede sikkerhedsopdateringer) er tilgængelige for Windows Embedded Standard 7 i yderligere tre år efter udløb af support via OEMs. Kontakt din Microsoft-partner eller dit kontohold for at få mere at vide.\n\n## <a name=\"editions\"></a>Versioner \n* Standard"

@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: f02602c99f6318f55290a629a507a1f33df8f32f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810819"
 name: Microsoft Office 2003
-summary: >+
-  Microsoft Office 2003 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
-
-
-  Dette gælder for følgende udgaver: Basic, Professional, Professional Enterprise, Small Business, Standard, Student and Teacher, Web Components
-
+summary: "Microsoft Office 2003 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus. \n\nDette gælder for de følgende versioner: Basic, Professionel, Professionel Enterprise, Small Business, Standard, Student and Teacher, Web Components\n\n"
 products:
 - office
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Grundlæggende\n* Professionel\n* Professionel virksomhed\n* Mindre virksomheder\n* Standard\n* Studerende og lærer\n* Webkomponenter"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Basic\n* Professional\n* Professional Enterprise\n* Small Business\n* Standard\n* Student and Teacher\n* Web Components"

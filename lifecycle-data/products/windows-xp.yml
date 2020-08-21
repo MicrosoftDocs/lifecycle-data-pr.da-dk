@@ -5,21 +5,21 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810656"
 name: Windows XP
 summary: >
-  Windows XP følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Windows XP følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Home, Professional, Professional for Embedded Systems, Starter
+  Dette gælder for de følgende versioner: Home, Professional, Professional til Embedded Systems, Starter
 
 
   > [!IMPORTANT]
 
-  > Supporten til dette produkt er ophørt. Se vejledningen til migrering nedenfor.
+  > Understøttelse af dette produkt er ophørt Se vejledningen til migrering nedenfor.
 products:
 - windows
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Hjem\n* Professionel\n* Professionel til integrerede systemer\n* Forret"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Home\n* Professional\n* Professional til Embedded Systems\n* Starter"

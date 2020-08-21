@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810541"
 name: Microsoft Visual Studio 2005
 summary: >+
-  Microsoft Visual Studio 2005 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Microsoft Visual Studio 2005 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: professionel, standard, standardudgave akademisk licens, Team Edition for Database Professionals, Team Edition for Software Arkitekter, Team Edition for SoftwareUdviklere, Team Edition for Software Testere, Team Suite, Team Test Load Agent, Værktøjer til Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+  Dette gælder for de følgende versioner: Professional, Standard, Standard Edition Academic License, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Softwareudviklere, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools til Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Express Developer
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om Understøttelse af Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Vejledning i migration](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Produktoplysninger om Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Supporten til dette produkt er ophørt. Se nedenfor for at få vejledning i migrering.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition til Database Professionals udgivet den 2.\n\n## <a name=\"editions\"></a>Udgaver \n* Professionel\n* Standard\n* Akademisk standardudgave\n* Team Edition til fagfolk inden for databaser\n* Team Edition til softwarearkitekter\n* Team Edition til softwareudviklere\n* Team Edition til softwaretestere\n* Team Suite\n* Belastningsagent for teamtest\n* Værktøjer til Microsoft Office-systemet\n* VB Express\n* Visuel C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visuel webudviklerEkspres"
+content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om Understøttelse af Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Vejledning om migrering](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Produktoplysninger om Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Understøttelse af dette produkt er ophørt Se nedenfor for at få vejledning i migrering.\n> [!NOTE]\n> Teamudgave af Microsoft Visual Studio 2005 til Database Professionals, udgivet den 2. marts, 2007.\n\n## <a name=\"editions\"></a>Versioner \n* Professional\n* Standard\n* Standard Edition Academic licens.\n* Team Edition til Database Professionals\n* Team Edition til Software Architects\n* Team Edition til Software Developers\n* Team Edition til Software Testers\n* Team Suite\n* Team Test Load Agent\n* Værktøjer til Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

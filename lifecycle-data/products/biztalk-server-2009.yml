@@ -5,21 +5,21 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811427"
 name: BizTalk Server 2009
 summary: >
-  BizTalk Server 2009 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  BizTalk Server 2009 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Branch, Developer, Enterprise, Standard
+  Dette gælder for de følgende versioner: Branch, Developer, Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > Supporten til dette produkt er ophørt. Se vejledningen til migrering nedenfor.
+  > Understøttelse af dette produkt er ophørt Se vejledningen til migrering nedenfor.
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Oplysninger om version](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Gren\n* Forfatter\n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Versionsoplysninger](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Branch\n* Developer\n* Enterprise\n* Standard"

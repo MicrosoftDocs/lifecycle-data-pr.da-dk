@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization Hosting 4.5 til Windows-skriveborde
-  description: Microsoft Application Virtualization Hosting 4.5 til Windows-skriveborde følger politikken for fast livscyklus.
+  description: Microsoft Application Virtualization Hosting 4.5 til Windows Desktop følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811225"
 name: Microsoft Application Virtualization Hosting 4.5 til Windows-skriveborde
 summary: >
-  Microsoft Application Virtualization Hosting 4.5 til Windows-skriveborde følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Application Virtualization Hosting 4.5 til Windows Desktop følger politikken for den [Faste](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: til Windows-skriveborde
+  Dette gælder for de følgende versioner: Windows Desktops
 
 
   > [!IMPORTANT]
 
-  > Supporten til dette produkt er ophørt. Se oplysninger om overførsel nedenfor.
+  > Understøttelse af dette produkt er ophørt Se oplysninger om overførsel nedenfor.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om produkter og migrering](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* til Windows-skriveborde"
+content: "\n## <a name=\"links\"></a>Links \n* [Information om produkter og migrering](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* For Windows Desktops"

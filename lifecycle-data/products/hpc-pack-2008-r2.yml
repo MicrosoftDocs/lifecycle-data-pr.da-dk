@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: HPC-pakke 2008 R2
+  title: HPC Pack 2008 R2
   description: HPC Pack 2008 R2 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 85ea9272f46481e504a5c283c962a8ef7f5ace53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811259"
-name: HPC-pakke 2008 R2
-summary: >
-  HPC Pack 2008 R2 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
-
-
-
-  > [!IMPORTANT]
-
-  > Supporten til dette produkt er ophørt. Se vejledningen til migrering nedenfor.
+name: HPC Pack 2008 R2
+summary: "HPC Pack 2008 R2 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus. \n\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt Se vejledningen til migrering nedenfor.\n"
 products:
 - windows
 policyType: fixed
@@ -41,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Links \n* [Windows Server-overførsel](https://azure.microsoft.com/migration/windows-server/)\n* [Vejledning i migration](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Links \n* [Windows Server Migration](https://azure.microsoft.com/migration/windows-server/)\n* [Vejledning om migrering](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)"

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810815"
 name: Microsoft Office 2010
 summary: >+
-  Microsoft Office 2010 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Office 2010 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
   Dette gælder for følgende udgaver: eAcademy, Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Køreplan for ophør af support til Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* eAcademy (eAcademy)\n* Hjem og erhverv\n* Hjem og Studerende\n* Personlige\n* Professionel\n* Professionel akademisk\n* Professionelt plus\n* Professionelt Plus-program til hjemmebrug\n* Standard\n* Forret"
+content: "\n## <a name=\"links\"></a>Links \n* [Roadmap for ophør af support for Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* eAcademy\n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Prefessional Academic\n* Professional Plus\n* Professionelt Plus Home Use Program\n* Standard\n* Starter"

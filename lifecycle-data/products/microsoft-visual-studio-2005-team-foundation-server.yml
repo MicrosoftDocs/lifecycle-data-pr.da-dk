@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 881badd8c2a2954697d7a63f329250f4a07b9581
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810545"
 name: Visual Studio Team Foundation Server 2005
 summary: >+
-  Visual Studio Team Foundation Server 2005 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Visual Studio Team Foundation Server 2005 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/17/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n* [Vejledning i migration](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> Supporten til dette produkt er ophørt. Se nedenfor for at få vejledning i migrering."
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n* [Vejledning om migrering](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> Understøttelse af dette produkt er ophørt Se nedenfor for at få vejledning i migrering."

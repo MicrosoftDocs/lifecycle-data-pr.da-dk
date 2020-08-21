@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Administration af Microsoft Advanced Group Policy 4.0
+  title: Microsoft Advanced Group Policy Management 4.0
   description: Microsoft Advanced Group Policy Management 4.0 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811237"
-name: Administration af Microsoft Advanced Group Policy 4.0
+name: Microsoft Advanced Group Policy Management 4.0
 summary: >+
-  Microsoft Advanced Group Policy Management 4.0 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Advanced Group Policy Management 4.0 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Links \n* [ERFARING MED MDOP-oplysninger](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Links \n* [MDOP Information Experience](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)"

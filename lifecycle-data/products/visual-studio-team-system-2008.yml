@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811041"
 name: Visual Studio Team System 2008
 summary: >
-  Visual Studio Team System 2008 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Visual Studio Team System 2008 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Alle, Arkitektur, Database, Udvikling, Team Explorer, Team Test Load Agent
+  Dette gælder for de følgende versioner: Alle, Architecture, Database, Development, Team Explorer, Team Test Load Agent
 
 
   > [!IMPORTANT]
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Vejledning i migration](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Alle\n* Arkitektur\n* Database\n* Udvikling\n* Team Explorer\n* Belastningsagent for teamtest"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Vejledning om migrering](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Alle\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent"

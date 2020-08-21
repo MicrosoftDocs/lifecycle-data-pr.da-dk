@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: bb7b9894a034924a5ddeb112c903ae6891321264
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810835"
 name: Microsoft Host Integration Server 2006
-summary: "Microsoft Host Integration Server 2006 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.\n\nDette gælder for følgende udgaver: Udvikler, Standard\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. Se vejledningen til migrering nedenfor. \n"
+summary: "Microsoft Host Integration Server 2006 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.\n\nDette gælder for de følgende versioner: Developer, Standard\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt Se vejledningen til migrering nedenfor. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Forfatter\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Developer\n* Standard"

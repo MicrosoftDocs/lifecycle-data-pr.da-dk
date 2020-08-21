@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 51b9bd9785cbcecf7248ab770a4a2423ad6135a1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811478"
 name: Microsoft Office Project 2003
-summary: "Microsoft Office Project 2003 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.\n\nDette gælder for følgende udgaver: Professional, Standard\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. \n"
+summary: "Microsoft Office Project 2003 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus. \n\nDette gælder for de følgende versioner: Professional, standard\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt \n"
 products:
 - office
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Professionel\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Professional\n* Standard"

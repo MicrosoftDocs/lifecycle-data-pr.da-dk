@@ -5,15 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 939c37245a4ed7263f746a3baac45b3105d89eda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810661"
 name: Windows Server Update Services til Windows Server 2016
-summary: >+
-  Windows Server Update Services til Windows Server 2016 følger [politikken for](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) komponentlivscyklus.
-
-
+summary: "Windows Server Update Services til Windows Server 2016 følger politikken for [komponentlivscyklus](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). \n\n\n"
 products:
 - windows
 policyType: component
@@ -23,4 +20,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "> [!TIP]\n> Denne komponent følger livscyklussen for det overordnede produkt, Windows Server 2016.\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)"
+content: "> [!TIP]\n> Denne komponent følger livscyklussen for dens overordnede produkt, Windows Server 2016.\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)"

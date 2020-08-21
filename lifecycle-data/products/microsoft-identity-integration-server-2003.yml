@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: dbad234b5c3f1f121bc91d27feef671281cfd044
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810829"
 name: Microsoft Identity Integration Server 2003
-summary: "Microsoft Identity Integration Server 2003 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.\n\nDette gælder for følgende udgaver: Enterprise\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. \n"
+summary: "Microsoft Identity Integration Server 2003 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.\n\nDette gælder for de følgende versioner: Enterprise\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt \n"
 products:
 - m365
 policyType: fixed
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/26/2003
   endDate: 01/10/2006
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n* [Oplysninger om Windows Server](/windows-server/)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Enterprise"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n* [Windows Server Information](/windows-server/)\n\n\n## <a name=\"editions\"></a>Versioner \n* Enterprise"

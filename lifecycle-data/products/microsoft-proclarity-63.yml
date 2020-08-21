@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 317529e1a142906f2aebd67ada9a28a32a680b2a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810557"
 name: Microsoft ProClarity 6.3
 summary: >+
-  Microsoft ProClarity 6.3 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft ProClarity 6.3 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Analytics Server, Desktop Professional, SharePoint Viewer
+  Dette gælder for de følgende versioner: Analytics Server, Desktop Professional, SharePoint Viewer
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Analytics-server\n* Professionel til stationær pc\n* SharePoint Fremviser"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Analytics Server\n* Desktop Professional\n* SharePoint Viewer"

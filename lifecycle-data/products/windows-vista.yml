@@ -5,21 +5,21 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810658"
 name: Windows Vista
 summary: >
-  Windows Vista følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Windows Vista følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
+  Dette gælder for de følgende versioner: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
 
 
   > [!IMPORTANT]
 
-  > Support til dette produkt er afsluttet, se nedenfor for at få oplysninger om overførsel.
+  > Support til dette produkt er ophørt, se nedenfor for at få oplysninger om migrering.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Overvejelser i forbindelse med opgradering og overførsel i Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Business\n* Erhverv N\n* Enterprise\n* Virksomhed X64\n* Grundlæggende om hjemmet\n* Home Basic 64-bit\n* Hjem Grundlæggende N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Forret\n* Ultimative\n* Ultimativ 64-bit"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Overvejelser i forbindelse med opgradering og migrering i Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Starter\n* Ultimate\n* Ultimate 64-bit"

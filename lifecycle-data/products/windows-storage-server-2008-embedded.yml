@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Integreret Windows Storage Server 2008
+  title: Windows Storage Server 2008 Embedded
   description: Windows Storage Server 2008 Embedded følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810659"
-name: Integreret Windows Storage Server 2008
+name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows Storage Server 2008 Embedded følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Windows Storage Server 2008 Embedded følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
+  Dette gælder for de følgende versioner: 32 bit, 64 bit, Basic, Basic 32-bit, Enterprise, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Dette produkt har nået slutningen af support. Se nedenfor for at få vejledning i migrering.\n\n## <a name=\"editions\"></a>Udgaver \n* 32 bit\n* 64 bit\n* Grundlæggende\n* Grundlæggende 32-bit\n* Enterprise\n* Standard\n* Arbejdsgruppe"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Dette produkt har nået sit supportophør. Se nedenfor for at få vejledning i migrering.\n\n## <a name=\"editions\"></a>Versioner \n* 32 bit\n* 64 bit\n* Basic\n* Basic 32-bit\n* Enterprise\n* Standard\n* Workgroup"

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ef2f54a3fe3a1de1d28984b691c0b1ed189d9db
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810506"
 name: Windows Server Update Services til Windows Server 2019
 summary: >+
-  Windows Server Update Services til Windows Server 2019 følger [politikken for](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) komponentlivscyklus.
+  Windows Server Update Services til Windows Server 2019 følger politikken for [komponentlivscyklus](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Links \n* [Windows Server 2019](/lifecycle/products/windows-server-2019)\n\n> [!NOTE]\n> Denne komponent følger livscyklussen for det overordnede produkt, Windows Server 2019."
+content: "\n## <a name=\"links\"></a>Links \n* [Windows Server 2019](/lifecycle/products/windows-server-2019)\n\n> [!NOTE]\n> Denne komponent følger livscyklussen for dens overordnede produkt, Windows Server 2019."

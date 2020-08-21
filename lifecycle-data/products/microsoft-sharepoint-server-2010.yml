@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810552"
 name: Microsoft SharePoint Server 2010
 summary: >+
-  Microsoft SharePoint Server 2010 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft SharePoint Server 2010 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: Access Services, Alle relevante, Excel Services, Performance Point Services
+  Dette gælder for de følgende versioner: Access tjenester, Alle relevante, Excel Tjenester, Performance Point Services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Udvidelse af support](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Vejledning i migration](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Dette produkts slutdato for support er blevet forlænget fra den 13.\n\n## <a name=\"editions\"></a>Udgaver \n* Adgangstjenester\n* Alle gældende\n* Excel-tjenester\n* Tjenester til ydeevnepunkt"
+content: "\n## <a name=\"links\"></a>Links \n* [Udvidelse af support](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Vejledning om migrering](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Dette produkts slutdato for support er blevet forlænget fra 13. oktober 2020 til 13. april 2021.\n\n## <a name=\"editions\"></a>Versioner \n* Access tjenester\n* Alle  relevante\n* Excel-tjenester\n* Tjenester til Performance Point"

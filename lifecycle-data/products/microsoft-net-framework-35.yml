@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811519"
 name: Microsoft .NET Framework 3.5
 summary: >+
-  Microsoft .NET Framework 3.5 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft .NET Framework 3.5 følger politikken for den [Faste](/lifecycle/policies/fixed) livscyklus.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2007
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Ofte stillede spørgsmål om livscyklus - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Understøttelsen af .NET Framework 3.x-versionerne før 3.5 SP1 sluttede den 12. \n> [!NOTE]\n> Livscyklusdatoer gælder for .NET 3.5 SP1, når der køres på Windows 10 version 1809, Windows Server 2019 eller nyere. I ældre versioner af Windows anvender .NET 3.5 SP1 livscyklussen for det underliggende Windows OS."
+content: "\n## <a name=\"links\"></a>Links \n* [Ofte stillede spørgsmål om livscyklus - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Support til .NET Framework 3.x versioner før 3.5 SP1 ophørte 12. juli 2011. \n> [!NOTE]\n> Livscyklusdatoer er gældende for .NET 3.5 SP1 på Windows 10 version 1809, Windows Server 2019 eller senere. På ældre versioner af Windows benytter .NET 3.5 SP1 livscyklussen af det underliggende Windows-operativsystem."

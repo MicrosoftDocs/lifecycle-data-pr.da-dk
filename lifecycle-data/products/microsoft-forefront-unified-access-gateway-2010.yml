@@ -5,15 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 250585910905b7c124d4f2ad3685d04e3bd64a03
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811149"
 name: Microsoft Forefront Unified Access Gateway 2010
-summary: >+
-  Microsoft Forefront Unified Access Gateway 2010 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
-
-
+summary: "Microsoft Forefront Unified Access Gateway 2010 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus. \n\n\n"
 products:
 - windows
 policyType: fixed
@@ -37,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/26/2010
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)"

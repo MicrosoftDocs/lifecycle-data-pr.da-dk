@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuel server 2005 R2
-  description: Virtual Server 2005 R2 følger politikken for fast livscyklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Virtual Server 2005 R2
+  description: Virtual Server 2005 R2 følger den faste livscykluspolitik.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "811043"
-name: Virtuel server 2005 R2
-summary: "Virtual Server 2005 R2 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.\n\nDette gælder for følgende udgaver: Enterprise, Standard\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937922"
+name: Virtual Server 2005 R2
+summary: "Virtual Server 2005 R2 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.\n\nDette gælder for de følgende versioner: Enterprise, Standard\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/28/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Enterprise\n* Standard"

@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communicator 2005
-  description: Microsoft Office Communicator 2005 følger politikken for fast livscyklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e2c6dc97b10a0fd56d9fff4d2d6578f511d9b0b7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Office Communicator 2005 følger den faste livscykluspolitik.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "811505"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936257"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.\n\nDette gælder for følgende udgaver: Standard\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. \n"
+summary: "Microsoft Office Communicator 2005 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.\n\nDette gælder for de følgende versioner: Standard\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 08/13/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Udgaver \n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Versioner \n* Standard"

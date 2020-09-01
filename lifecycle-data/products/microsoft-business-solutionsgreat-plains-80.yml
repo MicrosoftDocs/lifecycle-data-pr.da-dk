@@ -1,25 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions - Great Plains 8.0
-  description: Microsoft Business Solutions - Great Plains 8.0 følger politikken for fast livscyklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Business Solutions – perfekte Plains 8,0
+  description: Microsoft Business Solutions – smarte Plains 8,0 følger den faste livscykluspolitik.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "811197"
-name: Microsoft Business Solutions - Great Plains 8.0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934666"
+name: Microsoft Business Solutions – perfekte Plains 8,0
 summary: >
-  Microsoft Business Solutions - Great Plains 8.0 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Business Solutions – smarte Plains 8,0 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
 
 
-  Dette gælder for følgende udgaver: Standard
+  Dette gælder for de følgende versioner: Standard
 
 
   > [!IMPORTANT]
 
-  > Support til dette produkt er ophørt 13 oktober 2009
+  > Support for dette produkt er blevet afsluttet 13.2009
 products:
 - dynamics
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2004
   endDate: 10/13/2009
-content: "\n\n\n## <a name=\"editions\"></a>Udgaver \n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Versioner \n* Standard"

@@ -2,13 +2,14 @@
 metadata:
   title: Windows Embedded Device Manager 2011
   description: Windows Embedded Device Manager 2011 følger den faste livscykluspolitik.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 7d43dfd6726e8314bd4c05bb6d54c91aca80ab7b
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/01/2020
+  keywords: Client,SDK,Server
+  ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906761"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939920"
 name: Windows Embedded Device Manager 2011
 summary: >
   Windows Embedded Device Manager 2011 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
@@ -19,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Support til dette produkt er udløbet.
+  > Understøttelse af dette produkt er ophørt
 products:
 - windows
 policyType: fixed
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Links \n* [Service pakke politik](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgivelser \n* Klient\n* Kit\n* Replikaserveren"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Client\n* SDK\n* Replikaserveren"

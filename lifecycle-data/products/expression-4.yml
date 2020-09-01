@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Udtryk 4
-  description: Udtryk 4 følger politikken for fast livscyklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Expression 4 følger den faste livscykluspolitik.
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio Ultimate,Web
+  ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "810591"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930855"
 name: Udtryk 4
 summary: >+
-  Udtryk 4 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Expression 4 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
 
 
-  Dette gælder for følgende udgaver: Design, Encoder, Studio Ultimate, Web
+  Dette gælder for følgende versioner: design, koder, studie Ultimate, web
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Slutningen af mainstream støtte til Expression Studio Ultimate 4 er 13 oktober 2015.\n\n## <a name=\"editions\"></a>Udgaver \n* Design\n* Encoder\n* Studio Ultimate\n* Web"
+content: "\n\n> [!NOTE]\n> Slutningen af generel support til Expression Studio Ultimate 4 er 13 2015.\n\n## <a name=\"editions\"></a>Versioner \n* Udvikler\n* Encoder\n* Studie Ultimate\n* Web"

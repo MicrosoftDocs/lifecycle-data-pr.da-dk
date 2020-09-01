@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Word 2010
-  description: Microsoft Word 2010 følger politikken for fast livscyklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f4dc0eea07b8fda561c124386c9483135851e2c2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Word 2010 følger den faste livscykluspolitik.
+  ms.date: 09/01/2020
+  keywords: Home and Student,Standard
+  ms.openlocfilehash: 23a0866d6135a39d7b7895604cc2c3687c5f578f
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "811068"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929005"
 name: Microsoft Word 2010
 summary: >+
-  Microsoft Word 2010 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Word 2010 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
 
 
-  Dette gælder for følgende udgaver: Hjem og Studerende, Standard
+  Dette gælder for de følgende versioner: Home and Student, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Udgaver \n* Hjem og Studerende\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Versioner \n* Home and Student\n* Standard"

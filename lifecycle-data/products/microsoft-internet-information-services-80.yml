@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Internet Information Services 8.0
-  description: Microsoft Internet Information Services 8.0 følger politikken for komponentlivscyklus.
+  description: Microsoft Windows SharePoint Services 8.0 følger komponent-livscykluspolitikken.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810581"
 name: Microsoft Internet Information Services 8.0
 summary: >+
-  Microsoft Internet Information Services 8.0 følger [politikken for](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) komponentlivscyklus.
+  Microsoft Internet Information Services 8.0 følger [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)-livscykluspolitikken.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/30/2012
-content: "> [!TIP]\n> Denne version er kendt som en komponent, der følger supportlivscyklussen for dens overordnede hovedprodukt, Windows Server 2012 og Windows 8\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"
+content: "> [!TIP]\n> Denne udgivelse er kendt som en komponent, der følger support-livscyklussen for dens overordnede produkt, Windows Server 2012 og Windows 8\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: f3cdcd67ab11f44ba8ae5e4b54165274e1016016
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811135"
 name: Microsoft Office Project Server 2003
 summary: >+
-  Microsoft Office Project Server 2003 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Microsoft Office Project Server 2003 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)"

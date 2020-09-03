@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Internet Information Services 8.5
-  description: Microsoft Internet Information Services 8.5 følger politikken for komponentlivscyklus.
+  description: Microsoft Internet Information Services 8.5 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8493b959c25c256d639ec366055a2d2759849eb0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810579"
 name: Microsoft Internet Information Services 8.5
 summary: >+
-  Microsoft Internet Information Services 8.5 følger [politikken for](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) komponentlivscyklus.
+  Microsoft Internet Information Services 8.5 følger politikken for [fast](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livcyklus.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "> [!TIP]\n> Denne version er kendt som en komponent, der følger supportlivscyklussen for dens overordnede hovedprodukt, Windows Server 2012 R2 og Windows 8.1\n\n## <a name=\"links\"></a>Links \n* [Windows 8.1](/lifecycle/products/windows-81)\n* [Windows Server 2012 R2](/lifecycle/products/windows-server-2012-r2)"
+content: "> [!TIP]\n> Denne udgivelse kaldes en komponent, der følger supportlivscyklussen for det overordnede produkt, Windows Server 2012 R2 og Windows 8.1\n\n## <a name=\"links\"></a>Links \n* [Windows 8.1](/lifecycle/products/windows-81)\n* [Windows Server 2012 R2](/lifecycle/products/windows-server-2012-r2)"

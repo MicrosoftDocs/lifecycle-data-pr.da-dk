@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2930b1c5bd1db016e2228772f4a4b81678ce6f68
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810793"
 name: Microsoft Office InterConnect 2007
 summary: >+
-  Microsoft Office InterConnect 2007 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Microsoft Office InterConnect 2007 følger politikken for den [faste](/lifecycle/policies/fixed) livcyklus.
 
 
-  Dette gælder for følgende udgaver: Standard
+  Dette gælder for de følgende versioner: Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Versioner \n* Standard"

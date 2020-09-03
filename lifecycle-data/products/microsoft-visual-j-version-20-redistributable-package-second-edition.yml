@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual J# Version 2.0 Kan genudføres pakke 2.
-  description: Microsoft Visual J# Version 2.0 Redistributable Package Second Edition følger politikken for fast livscyklus.
+  title: Microsoft Visual J# Version 2.0 videredistribuerbar pakke, anden udgave
+  description: Microsoft Visual J# Version 2.0  Redistributable Package Second Edition følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 13e81d8ba84a4aede4cd4df18a7e40d55de1d3dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810691"
-name: Microsoft Visual J# Version 2.0 Kan genudføres pakke 2.
+name: Microsoft Visual J# Version 2.0 videredistribuerbar pakke, anden udgave
 summary: >+
-  Microsoft Visual J# Version 2.0 Redistributable Package Second Edition følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Microsoft Visual J# Version 2.0  Redistributable Package Second Edition følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om Understøttelse af Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Supporten til dette produkt er ophørt. Se nedenfor for at få vejledning i migrering."
+content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om Understøttelse af Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Understøttelse af dette produkt er ophørt Se nedenfor for at få vejledning i migrering."

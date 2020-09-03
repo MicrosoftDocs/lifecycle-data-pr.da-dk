@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 829f271edf5fe7984b750209a89f0f40efc6a3c3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811243"
 name: Internet Explorer 8
 summary: >+
-  Internet Explorer 8 følger [komponentlivscykluspolitikken.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Internet Explorer 8 følger [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykluspolitikken.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/17/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://www.microsoft.com/itpro/microsoft-edge)\n* [Ofte stillede spørgsmål om Internet Explorer-livscykluspolitik](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> januar 2016 er det kun den nyeste version af Internet Explorer, der er tilgængelig for et understøttet operativsystem, der modtager teknisk support og sikkerhedsopdateringer."
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://www.microsoft.com/itpro/microsoft-edge)\n* [Ofte stillede spørgsmål om Internet Explorers livscyklus-politik](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Fra den 12. januar 2016 modtager kun den nyeste version af Internet Explorer, der er tilgængelig for et understøttet operativsystem, teknisk support og sikkerhedsopdateringer."

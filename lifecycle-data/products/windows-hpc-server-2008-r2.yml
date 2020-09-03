@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows HPC Server 2008 R2
-  description: Windows HPC Server 2008 R2 følger politikken for fast livscyklus.
+  description: Windows HPC Server 2008 R2 følger den faste livscykluspolitik.
   ms.date: 07/28/2020
   ms.openlocfilehash: d9cbccd562c996dc7b138fd6e110950ef701bce8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810509"
 name: Windows HPC Server 2008 R2
 summary: >
-  Windows HPC Server 2008 R2 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Windows HPC Server 2008 R2 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten til dette produkt er ophørt. Se vejledningen til migrering nedenfor.
+  > Understøttelse af dette produkt er ophørt Se vejledningen til migrering nedenfor.
 products:
 - windows
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://aka.ms/AA1ovn4)"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://aka.ms/AA1ovn4)"

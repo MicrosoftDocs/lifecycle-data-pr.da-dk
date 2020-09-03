@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2016
-  description: SQL Server 2016 følger den faste livscykluspolitik.
+  description: SQL Server 2016 følger politikken for fast livcyklus.
   ms.date: 08/12/2020
   ms.openlocfilehash: e54ceed1e30fb7075b341e068c5d65d7c9e95858
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892752"
 name: SQL Server 2016
 summary: >+
-  SQL Server 2016 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
+  SQL Server 2016 følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende versioner: Developer, Enterprise, Enterprise Core, Express, standard, web
+  Dette gælder for de følgende versioner: Developer, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2016
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Service pakke politik](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgivelser \n* Udviklere\n* Erhvervs\n* Virksomheds kerne\n* Tryk\n* Regn\n* Webdel"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"

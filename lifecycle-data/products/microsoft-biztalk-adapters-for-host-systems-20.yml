@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk-kort til værtssystemer 2,0
-  description: Microsoft BizTalk-kort til værtssystemer 2,0 følger den faste livscykluspolitik.
+  title: Microsoft BizTalk Adapters for Host Systems 2.0
+  description: Microsoft BizTalk Adapters til Host Systems 2.0 følger politikken for fast livscyklus.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893492"
-name: Microsoft BizTalk-kort til værtssystemer 2,0
+name: Microsoft BizTalk Adapters for Host Systems 2.0
 summary: >+
-  Microsoft BizTalk-kort til værtssystemer 2,0 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
+  Microsoft BizTalk Adapters til Host Systems 2.0 følger [fast](/lifecycle/policies/fixed) politik for livscyklus.
 
 
-  Dette gælder for følgende versioner: Developer, standard
+  Dette gælder for de følgende versioner: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Overførsels vejledning](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Udgivelser \n* Udviklere\n* Regn"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Versioner \n* Developer\n* Standard"

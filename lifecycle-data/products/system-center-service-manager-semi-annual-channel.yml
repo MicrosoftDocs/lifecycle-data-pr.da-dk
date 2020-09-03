@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Service Manager halvårlige kanal
-  description: System Center Service Manager semi annual channel følger den moderne livscykluspolitik.
+  title: System Center Service Manager Halvårlig kanal
+  description: System Center Service Manager Halvårlig kanal følger den moderne livscykluspolitik.
   ms.date: 07/28/2020
   ms.openlocfilehash: 37355211dc2600ad5f372f914e386a836b5c4be9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868580"
-name: System Center Service Manager halvårlige kanal
+name: System Center Service Manager Halvårlig kanal
 summary: >
-  System Center Service Manager semi annual channel følger [den moderne](/lifecycle/policies/modern) livscykluspolitik.
+  System Center Service Manager halvårlig kanal følger [den](/lifecycle/policies/modern) moderne livscykluspolitik.
 
 
 
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/system-center/scsm/upgrade-sm?view=sc-sm-2019)"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/system-center/scsm/upgrade-sm?view=sc-sm-2019)"

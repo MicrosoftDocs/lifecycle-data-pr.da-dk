@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Mobile Device Manager 2008
-  description: Microsoft System Center Mobile Device Manager 2008 følger den faste livscykluspolitik.
+  description: Microsoft System Center Mobile Device Manager 2008 følger politikken for fast livscyklus.
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906267"
 name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Microsoft System Center Mobile Device Manager 2008 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
+  Microsoft System Center Mobile Device Manager 2008 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: All Applicable wSQL
+  Dette gælder for følgende udgaver: Alle gældende, wSQL
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Links \n* [Overførsels vejledning](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Service pakke politik](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgivelser \n* Alle relevante\n* wSQL"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Alle  relevante\n* wSQL"

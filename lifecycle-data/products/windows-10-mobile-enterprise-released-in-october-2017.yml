@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 Mobile Enterprise, udgivet i oktober 2017
-  description: Windows 10 Mobile Enterprise, der blev udgivet i oktober 2017, følger politikken for fast livscyklus.
+  description: Windows 10 Mobile Enterprise, der blev udgivet i oktober 2017, følger politikken om fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: eca2b57c1fc69d610cf6f8cf0232c11eccf06ead
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868597"
 name: Windows 10 Mobile Enterprise, udgivet i oktober 2017
 summary: >
-  Windows 10 Mobile Enterprise, der blev udgivet i oktober 2017, følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Windows 10 Mobile Enterprise, der blev udgivet i oktober 2017, følger [fast](/lifecycle/policies/fixed) livscykluspolitikken.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten til dette produkt er ophørt.
+  > Understøttelse af dette produkt er ophørt
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Ofte stillede spørgsmål om enheds-os-livscyklus](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile stoppede support den 10.](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Links \n* [Ofte stillede spørgsmål om enhedsoperativsystemers livscyklus](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile sluttede supporten den 10. december 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

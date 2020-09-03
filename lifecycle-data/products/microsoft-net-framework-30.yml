@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a237dbb82803402d137fc784cf184e58b604015b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811141"
 name: Microsoft .NET Framework 3.0
 summary: >+
-  Microsoft .NET Framework 3.0 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft .NET Framework 3.0 følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Ofte stillede spørgsmål om livscyklus - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> Understøttelsen af .NET Framework 3.x-versionerne før 3.5 SP1 sluttede den 12."
+content: "\n## <a name=\"links\"></a>Links \n* [Ofte stillede spørgsmål om livscyklus - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> Support til .NET Framework 3.x versioner før 3.5 SP1 ophørte 12. juli 2011."

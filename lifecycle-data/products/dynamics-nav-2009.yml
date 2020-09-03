@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 91dc4515ba59f72b52cc7c9d517407dfaf552702
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811283"
 name: Dynamics NAV 2009
 summary: >+
-  Dynamics NAV 2009 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Dynamics NAV 2009 følger politikken for den [faste](/lifecycle/policies/fixed) livcyklus.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/12/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n* [Flere oplysninger](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Slutdatoerne for ophør af støtte for NAV 2009 forlænges som vist."
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n* [Flere oplysninger](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Slutdatoerne for ophør af support for NAV 2009 forlænges som vist."

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server til softwarelicensering og -beskyttelse
-  description: Softwarelicenserings- og beskyttelsesserveren følger politikken for fast livscyklus.
+  title: Software Licensing and Protection Server
+  description: Software Licensing and Protection Server følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810542"
-name: Server til softwarelicensering og -beskyttelse
+name: Software Licensing and Protection Server
 summary: >
-  Softwarelicenserings- og beskyttelsesserveren [følger politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Software Licensing and Protection Server følger [fast](/lifecycle/policies/fixed) livscyklus politik.
 
 
-  Dette gælder for følgende udgaver: Enterprise, Standard
+  Dette gælder for de følgende versioner: Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > På grund af afhændelsen af Software Licensing and Protection Server (SLPS) understøttede Microsoft SLPS indtil den 24.
+  > På grund af frasalget af SLPS (Software Licensing og Protection Server) understøttede Microsoft SLPS indtil 24. september 2009.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Server til softwarelicensering og beskyttelse (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Versioner \n* Enterprise\n* Standard"

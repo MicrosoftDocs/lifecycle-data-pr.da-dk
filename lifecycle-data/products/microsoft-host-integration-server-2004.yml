@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810834"
 name: Microsoft Host Integration Server 2004
-summary: "Microsoft Host Integration Server 2004 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.\n\nDette gælder for følgende udgaver: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. \n"
+summary: "Microsoft Host Integration Server 2004 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.\n\nDette gælder for de følgende versioner: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Forfatter\n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Developer\n* Enterprise\n* Standard"

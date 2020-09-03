@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 5d1cade536fbdca6669ad3953cf16c07d47c46fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811086"
 name: Microsoft Systems Management Server 2003 R2
 summary: >+
-  Microsoft Systems Management Server 2003 R2 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Systems Management Server 2003 R2 følger politikken for [fast](/lifecycle/policies/fixed) livcyklus.
 
 
 products:

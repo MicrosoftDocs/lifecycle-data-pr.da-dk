@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office OneNote 2007
-  description: Microsoft Office OneNote 2007 følger politikken for fast livscyklus.
+  description: Microsoft Office OneNote 2007 følger politikken for den faste livcyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 03a5a164fe8f140024319d95f3a897660ba7c115
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811492"
 name: Microsoft Office OneNote 2007
 summary: >+
-  Microsoft Office OneNote 2007 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Office OneNote 2007 følger politikken for den [faste](/lifecycle/policies/fixed) livcyklus.
 
 
-  Dette gælder for følgende udgaver: Hjem og Studerende, Standard
+  Dette gælder for de følgende versioner: Home and Student, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Udgaver \n* Hjem og Studerende\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Versioner \n* Home and Student\n* Standard"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SoftGrid-programvirtualisering
-  description: SoftGrid-programvirtualisering følger politikken for fast livscyklus.
+  title: SoftGrid Application Virtualization
+  description: SoftGrid Application Virtualization følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810526"
-name: SoftGrid-programvirtualisering
+name: SoftGrid Application Virtualization
 summary: >
-  SoftGrid-programvirtualisering følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  SoftGrid Application Virtualization følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende udgaver: 4.1 til stationære pc'er, 4.2 til stationære pc'er, til Terminal Services 4.1
+  Dette gælder for de følgende versioner: 4.1 til Desktops, 4.2 til Desktops, til Terminal Services 4.1
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Udgaver \n* 4.1 til stationære pc'er\n* 4.2 til stationære pc'er\n* til Terminal Services 4.1"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Versioner \n* 4.1 til Desktops\n* 4.2 til Desktops\n* til Terminal Services 4.1"

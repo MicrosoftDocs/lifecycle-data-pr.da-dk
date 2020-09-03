@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: df333e9c6053a99d607890a0874a35f0a1d99781
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851502"
 name: Dynamics GP 2013
 summary: >+
-  Dynamics GP 2013 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Dynamics GP 2013 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 03/12/2013
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Links \n* [Yderligere vejledning i oplysninger og migrering](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Produktinformation](/dynamics-gp/)\n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Links \n* [Flere vejledninger om information og overførsel](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Produktinformation](/dynamics-gp/)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)"

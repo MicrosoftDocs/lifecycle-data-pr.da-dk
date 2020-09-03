@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851420"
 name: Duet Enterprise til Microsoft SharePoint og SAP
 summary: >
-  Duet Enterprise til Microsoft SharePoint og SAP følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Duet Enterprise til Microsoft SharePoint og SAP følger [fast](/lifecycle/policies/fixed) livscykluspolitik.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten til dette produkt er ophørt. Dette produkt sælges og understøttes af SAP.
+  > Understøttelse af dette produkt er ophørt Dette produkt sælges og understøttes af SAP.
 products:
 - office
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 03/16/2011
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Links \n* [SAP-support](https://support.sap.com/index.html)"
+content: "\n## <a name=\"links\"></a>Links \n* [SAP Support](https://support.sap.com/index.html)"

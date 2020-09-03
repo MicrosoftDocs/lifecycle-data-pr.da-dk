@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.5.2
-  description: Microsoft .NET Framework 4.5.2 følger politikken for komponentlivscyklus.
+  description: Microsoft .NET Framework 4.5.2 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: c893ea681fc98a81689a258a44b5b320b82b2582
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851588"
 name: Microsoft .NET Framework 4.5.2
 summary: >+
-  Microsoft .NET Framework 4.5.2 følger [politikken for](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) komponentlivscyklus.
+  Microsoft .NET Framework 4.5.2 følger [Komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscyklus-politikken.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/05/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-452)\n* [Ofte stillede spørgsmål om .NET Framework Lifecycle](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework er en komponent i Windows OS. Komponenter får samme support som deres overordnede produkt eller platform."
+content: "\n## <a name=\"links\"></a>Links \n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-452)\n* [Ofte stillede spørgsmål om .NET Framework livscyklus](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework er en komponent i Windows OS. Komponenter modtager samme support som deres overordnede produkt eller platform."

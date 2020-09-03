@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.5
-  description: Microsoft .NET Framework 4.5 følger politikken for komponentlivscyklus.
+  description: Microsoft .NET Framework 4.5 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0462a82a1db09bc170784225cae666c3d526559c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851256"
 name: Microsoft .NET Framework 4.5
 summary: >+
-  Microsoft .NET Framework 4.5 følger [politikken for](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) komponentlivscyklus.
+  Microsoft .NET Framework 4.5 følger politikken for [fast](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscyklus.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/09/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Ofte stillede spørgsmål om livscyklus - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> Understøttelse af .NET Framework 4, 4.5 og 4.5.1 sluttede den 12."
+content: "\n## <a name=\"links\"></a>Links \n* [Ofte stillede spørgsmål om livscyklus - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> Support til .NET Framework 4, 4.5 og 4.5.1 ophørte den 12. januar 2016."

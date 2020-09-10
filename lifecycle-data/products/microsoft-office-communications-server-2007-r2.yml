@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office Communications Server 2007 R2
   description: Microsoft Office Communications Server 2007 R2 følger politikken for fast livscyklus.
-  ms.date: 08/07/2020
-  ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
-  ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
+  ms.date: 09/10/2020
+  keywords: All applicable,Enterprise,XMPP Gateway
+  ms.openlocfilehash: f2ffe44d722e5b27e1ad852b480a531b49c729c0
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 08/07/2020
-  ms.locfileid: "885823"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001761"
 name: Microsoft Office Communications Server 2007 R2
 summary: "Microsoft Office Communications Server 2007 R2 følger politikken for [fast](/lifecycle/policies/fixed) livcyklus\n\nDette gælder for de følgende versioner: Alle gældende, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt Se vejledningen til overførsler. \n"
 products:

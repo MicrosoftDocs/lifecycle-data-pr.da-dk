@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Søg i oplysninger om produkt- og servicelivscyklus (eksempel)
+title: Søg i produkt- og services livscyklusoplysninger
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Denne side er under udvikling og vil blive vist live den 2. september. I mellemtiden kan du få vist en komplet liste over Microsoft-produkter med deres supporttidslinjer og detaljer på [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Eksporter livscyklusoplysninger fra siden [Eksport af livscyklus](/lifecycle/export/products).\n\n\nMicrosoft Lifecycle giver konsistente og forudsigelige retningslinjer for support gennem et produkts levetid, hvilket hjælper kunder med at administrere deres it-investeringer og -miljøer, mens de strategisk planlægger fremtiden.\n\n\nSøg nedenfor for en liste over Microsoft kommercielle produkter og tjenester, og vælg derefter dit resultat for at finde support- og servicetidslinjer, krævede opdateringer, migrationsoplysninger og systemkrav."
+summary: "\n> [!NOTE]\n> Eksporter livscyklusoplysninger fra siden [Eksport af livscyklus](/lifecycle/products/export).\n\n\nMicrosoft Lifecycle giver konsistente og forudsigelige retningslinjer for support gennem et produkts levetid, hvilket hjælper kunder med at administrere deres it-investeringer og -miljøer, mens de strategisk planlægger fremtiden.\n\n\nSøg nedenfor for en liste over Microsoft kommercielle produkter og tjenester, og vælg derefter dit resultat for at finde support- og servicetidslinjer, krævede opdateringer, migrationsoplysninger og systemkrav."
 metadata:
-  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
-  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
+  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
   ms.translationtype: HT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "899833"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "943027"

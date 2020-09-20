@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2013
-  description: Exchange Server 2013 følger den faste livscykluspolitik.
+  description: Exchange Server 2013 følger politikken for fast livscyklus.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 4362a67d623b5d2b1c99600a31880e0a584137a5
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931299"
 name: Exchange Server 2013
 summary: >+
-  Exchange Server 2013 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
+  Exchange Server 2013 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
   Dette gælder for de følgende versioner: Enterprise, Standard
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Links \n* [Service retningslinjer for behandling](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>Versioner \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Retningslinjer for servicering](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>Versioner \n* Enterprise\n* Standard"

@@ -6,12 +6,12 @@ metadata:
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928894"
 name: Office Live Meeting
-summary: "Office Live Meeting følger den [moderne](/lifecycle/policies/modern) livscykluspolitik.\n\nDette gælder for de følgende versioner: Standard\n\n> [!IMPORTANT]\n> Support til denne tjeneste er afsluttet. Se vejledningen til migrering nedenfor. \n"
+summary: "Office Live Meeting følger den [moderne](/lifecycle/policies/modern) livscykluspolitik.\n\nDette gælder for de følgende versioner: Standard\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt. Se vejledningen til migrering nedenfor. \n"
 products:
 - office
 policyType: modern-online

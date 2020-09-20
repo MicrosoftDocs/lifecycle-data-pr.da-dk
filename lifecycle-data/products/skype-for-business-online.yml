@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Skype for Business Online
-  description: Skype for Business Online følger den moderne livscykluspolitik.
+  description: Skype til Business Online følger den moderne livscykluspolitik.
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851531"
 name: Skype for Business Online
 summary: >
-  Skype for Business Online følger [den moderne](/lifecycle/policies/modern) livscykluspolitik.
+  Skype til Business Online følger den [moderne](/lifecycle/policies/modern) livscykluspolitik.
 
 
 
   > [!IMPORTANT]
 
-  > Tjenesten går på pension 31. juli 2021. Se nedenfor for at få vejledning i migrering.
+  > Denne tjeneste udgår den 31. juli 2021. Se nedenfor for at få vejledning i migrering.
 products:
 - office
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2015
   endDate: 07/31/2021
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/MicrosoftTeams/upgrade-start-here)"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/MicrosoftTeams/upgrade-start-here)"

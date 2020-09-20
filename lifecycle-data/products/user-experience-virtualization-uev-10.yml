@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Brugeroplevelsesvirtualisering (UE-V) 1.0
-  description: UE-V (User Experience Virtualization) 1.0 følger politikken for fast livscyklus.
+  title: User Experience Virtualization (UE-V) 1.0
+  description: User Experience Virtualization (UE-V) 1.0 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4be913f32a545326fbfcd9b752017f9f4070c6ec
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851193"
-name: Brugeroplevelsesvirtualisering (UE-V) 1.0
+name: User Experience Virtualization (UE-V) 1.0
 summary: >+
-  UE-V (User Experience Virtualization) 1.0 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  User Experience Virtualization (UE-V) 1.0 følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Administration og overvågning af Microsoft BitLocker 2.5
+  title: Microsoft BitLocker Administration og overvågning 2.5
   description: Microsoft BitLocker Administration and Monitoring 2.5 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: fe5d94e98de4c880815a7bad0a2ae5dd42a74600
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851466"
-name: Administration og overvågning af Microsoft BitLocker 2.5
+name: Microsoft BitLocker Administration og overvågning 2.5
 summary: >+
-  Microsoft BitLocker Administration and Monitoring 2.5 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft BitLocker Administration and Monitoring 2.5 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)"

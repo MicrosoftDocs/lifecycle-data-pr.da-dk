@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Integreret POSReady 2009
-  description: Windows Integreret POSReady 2009 følger politikken for fast livscyklus.
+  title: Windows Embedded POSReady 2009
+  description: Windows Embedded POSReady 2009 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811027"
-name: Windows Integreret POSReady 2009
+name: Windows Embedded POSReady 2009
 summary: >
-  Windows Integreret POSReady 2009 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Windows Embedded POSReady 2009 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 

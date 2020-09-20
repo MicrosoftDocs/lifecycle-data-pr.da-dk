@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 695d74ea0f987a8abb0956f71852655df785ee73
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811171"
 name: Microsoft Customer Care Framework 2005
 summary: >
-  Microsoft Customer Care Framework 2005 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Microsoft Customer Care Framework 2005 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/05/2005
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"

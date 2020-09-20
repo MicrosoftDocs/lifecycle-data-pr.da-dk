@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Micro Framework Portering Kit 3.0
-  description: Microsoft .NET Micro Framework Porting Kit 3.0 følger politikken for fast livscyklus.
+  title: Microsoft .NET Micro Framework Porting Kit 3.0
+  description: Microsoft .NET Micro Framework Porting Kit 3.0 følger politikken for den faste livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: bceaa4d262839239519b3ea3244f762d88982921
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811516"
-name: Microsoft .NET Micro Framework Portering Kit 3.0
+name: Microsoft .NET Micro Framework Porting Kit 3.0
 summary: >
-  Microsoft .NET Micro Framework Porting Kit 3.0 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft .NET Micro Framework Porting Kit 3.0 følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten til dette produkt er ophørt.
+  > Understøttelse af dette produkt er ophørt
 products:
 - dotnet
 policyType: fixed

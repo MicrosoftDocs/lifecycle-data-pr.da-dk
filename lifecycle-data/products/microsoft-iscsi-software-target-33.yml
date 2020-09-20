@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft iSCSI-softwaremål 3.3
-  description: Microsoft iSCSI Software Target 3.3 følger politikken for komponentlivscyklus.
+  title: Microsoft iSCSI Software Target 3.3
+  description: Microsoft iSCSI Software Target 3.3 følger komponentlivscykluspolitikken.
   ms.date: 07/28/2020
   ms.openlocfilehash: c8ae05506cdc5e83920e82e4cc6bcfef3c03863e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851271"
-name: Microsoft iSCSI-softwaremål 3.3
+name: Microsoft iSCSI Software Target 3.3
 summary: >
-  Microsoft iSCSI Software Target 3.3 følger [politikken for](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) komponentlivscyklus.
+  Microsoft iSCSI Software Target 3.3 følger [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livcykluspolitikken.
 
 
 
   > [!IMPORTANT]
 
-  > Understøttelsen af denne komponent er ophørt.
+  > Supportering af dette produkt er ophørt
 products:
 - windows
 policyType: component

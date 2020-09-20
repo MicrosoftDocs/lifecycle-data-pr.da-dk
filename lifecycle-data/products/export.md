@@ -1,27 +1,27 @@
 ---
 title: Eksport af data for livscyklus
 description: Eksportere oplysninger om produktlivscyklus
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008458"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025023"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="d420b-103">Eksport af data for livscyklus</span><span class="sxs-lookup"><span data-stu-id="d420b-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="decff-103">Eksport af data for livscyklus</span><span class="sxs-lookup"><span data-stu-id="decff-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="d420b-104">Denne side er under udvikling.</span><span class="sxs-lookup"><span data-stu-id="d420b-104">This page is under development.</span></span>
+> <span data-ttu-id="decff-104">Denne side er under udvikling.</span><span class="sxs-lookup"><span data-stu-id="decff-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="d420b-105">Eksportér alle produkter</span><span class="sxs-lookup"><span data-stu-id="d420b-105">Export all products</span></span>
-<span data-ttu-id="d420b-106">Eksportér livscyklus data for alle produkter ved at klikke herunder:</span><span class="sxs-lookup"><span data-stu-id="d420b-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="decff-105">Eksportér alle produkter</span><span class="sxs-lookup"><span data-stu-id="decff-105">Export all products</span></span>
+<span data-ttu-id="decff-106">Eksportér livscyklus data for alle produkter ved at klikke herunder:</span><span class="sxs-lookup"><span data-stu-id="decff-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="d420b-107">Eksportér alle produkter</span><span class="sxs-lookup"><span data-stu-id="d420b-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="decff-107">Eksportér alle produkter</span><span class="sxs-lookup"><span data-stu-id="decff-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="d420b-108">Eksportere produkter efter familie og gruppe</span><span class="sxs-lookup"><span data-stu-id="d420b-108">Export products by Family and Group</span></span>
-<span data-ttu-id="d420b-109">Vælg en familie og derefter en gruppe, der skal eksporteres.</span><span class="sxs-lookup"><span data-stu-id="d420b-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="d420b-110">Bemærk: eksporten starter, når Gruppeværdien er markeret.</span><span class="sxs-lookup"><span data-stu-id="d420b-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="decff-108">Eksportere produkter efter familie og gruppe</span><span class="sxs-lookup"><span data-stu-id="decff-108">Export products by Family and Group</span></span>
+<span data-ttu-id="decff-109">Vælg en familie og derefter en gruppe, der skal eksporteres.</span><span class="sxs-lookup"><span data-stu-id="decff-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="decff-110">Bemærk: eksporten starter, når Gruppeværdien er markeret.</span><span class="sxs-lookup"><span data-stu-id="decff-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Pc'er" title2="Gruppe"]
 > - [(.NET | Alle](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -83,8 +83,8 @@ ms.locfileid: "1008458"
 > - [(Windows | Advarsel](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Replikaserveren](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="d420b-171">Eksportere produkter ved hjælp af dato for ophør</span><span class="sxs-lookup"><span data-stu-id="d420b-171">Export products by end of support date</span></span>
-<span data-ttu-id="d420b-172">Vælg et år for at få vist produkter, når du når til sidst i support.</span><span class="sxs-lookup"><span data-stu-id="d420b-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="d420b-173">Bemærk: eksporten begynder, når år-værdi er valgt.</span><span class="sxs-lookup"><span data-stu-id="d420b-173">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="decff-171">Eksportere produkter ved hjælp af dato for ophør</span><span class="sxs-lookup"><span data-stu-id="decff-171">Export products by end of support date</span></span>
+<span data-ttu-id="decff-172">Vælg et år for at få vist produkter, når du når til sidst i support.</span><span class="sxs-lookup"><span data-stu-id="decff-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="decff-173">Bemærk: eksporten begynder, når år-værdi er valgt.</span><span class="sxs-lookup"><span data-stu-id="decff-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))

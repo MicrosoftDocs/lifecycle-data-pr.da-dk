@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft-løsning til hostede meddelelser og samarbejde 4.0
-  description: Microsoft Solution for Hosted Messaging and Collaboration 4.0 følger politikken for fast livscyklus.
+  title: Microsoft Solution til Hosted Messaging and Collaboration 4.0
+  description: Microsoft Solution til Hosted Messaging and Collaboration 4.0 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5aad6d836257bdbd054a1e385c6268769a1da05
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810699"
-name: Microsoft-løsning til hostede meddelelser og samarbejde 4.0
+name: Microsoft Solution til Hosted Messaging and Collaboration 4.0
 summary: >+
-  Microsoft Solution for Hosted Messaging and Collaboration 4.0 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Solution til Hosted Messaging and Collaboration 4.0 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 products:

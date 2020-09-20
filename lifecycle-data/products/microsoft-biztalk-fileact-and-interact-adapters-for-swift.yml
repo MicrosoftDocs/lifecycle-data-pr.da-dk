@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk FileAct- og InterAct-kort til SWIFT
-  description: Microsoft BizTalk FileAct- og InterAct-kort til SWIFT følger politikken for fast livscyklus.
+  title: Microsoft BizTalk FileAct- og InterAct-adaptere til SWIFT
+  description: Microsoft BizTalk FileAct- og InterAct-adaptere til SWIFT følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811205"
-name: Microsoft BizTalk FileAct- og InterAct-kort til SWIFT
+name: Microsoft BizTalk FileAct- og InterAct-adaptere til SWIFT
 summary: >+
-  Microsoft BizTalk FileAct- og InterAct-kort til SWIFT følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft BizTalk FileAct- og InterAct-adaptere til SWIFT følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
 
 
 products:

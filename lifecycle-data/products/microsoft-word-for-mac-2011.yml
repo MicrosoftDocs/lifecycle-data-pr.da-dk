@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a33ce7f2ee56098ccc8b316733d42042b842a84d
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851398"
 name: Microsoft Word til Mac 2011
-summary: "Microsoft Word til Mac 2011 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.\n\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. \n"
+summary: "Microsoft Word til Mac 2011 følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.\n\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Generel support til Microsoft Office til Mac 2011 blev udvidet som vist for at give alle kunder standardtidsstilling i livscyklussen"
+content: "\n\n> [!NOTE]\n> Generel support til Microsoft Office til Mac 2011 udvides som vist her, for at give alle kunder en standard livscyklusovergangs-tidslinje."

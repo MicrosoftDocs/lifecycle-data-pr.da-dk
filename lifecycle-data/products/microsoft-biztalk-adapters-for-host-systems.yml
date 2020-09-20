@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk-kort til værtssystemer
-  description: Microsoft BizTalk-kort til værtssystemer følger politikken for fast livscyklus.
+  title: Microsoft BizTalk-adaptere til værtssystemer
+  description: Microsoft BizTalk Adapters til Host Systems følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811208"
-name: Microsoft BizTalk-kort til værtssystemer
+name: Microsoft BizTalk-adaptere til værtssystemer
 summary: >+
-  Microsoft BizTalk-kort til værtssystemer følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft BizTalk Adapters til Host Systems følger [fast](/lifecycle/policies/fixed) politik for livscyklus.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"

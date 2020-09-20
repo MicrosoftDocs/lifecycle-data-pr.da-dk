@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a2fcedc81e89f4dbdaaf6178f4c4ace466bd73f7
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851313"
 name: Dynamics GP 2016
 summary: >+
-  Dynamics GP 2016 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Dynamics GP 2016 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Links \n* [Yderligere vejledning i oplysninger og migrering](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Produktinformation](/dynamics-gp/)"
+content: "\n## <a name=\"links\"></a>Links \n* [Flere vejledninger om information og overførsel](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Produktinformation](/dynamics-gp/)"

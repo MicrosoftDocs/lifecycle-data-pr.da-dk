@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b771dec5ab12ab49e3317d53aea8e91f5d95bd40
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810797"
 name: Microsoft Office Groove 2007
-summary: "Microsoft Office Groove 2007 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.\n\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. \n"
+summary: "Microsoft Office Groove 2007 følger politikken for [fast](/lifecycle/policies/fixed) livcyklus\n\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/office/troubleshoot/support/office-2007-not-support)"

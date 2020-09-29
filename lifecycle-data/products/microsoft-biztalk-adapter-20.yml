@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk-kort 2,0
-  description: Microsoft BizTalk-kort 2,0 følger den faste livscykluspolitik.
+  title: Microsoft BizTalk Adapter 2.0
+  description: Microsoft BizTalk Adapter 2.0 følger politikken for fast livscyklus.
   ms.date: 09/01/2020
   keywords: for MSMQ,for mySAP Business Suite,for SAP
   ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934740"
-name: Microsoft BizTalk-kort 2,0
+name: Microsoft BizTalk Adapter 2.0
 summary: >+
-  Microsoft BizTalk-kort 2,0 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
+  Microsoft BizTalk Adapter 2.0 følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende versioner: til MSMQ, til mySAP Business suite til SAP
+  Dette gælder for følgende udgaver: til MSMQ, til mySAP Business Suite, til SAP
 
 products:
 - microsoft-servers
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/20/2004
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Startdato for Microsoft BizTalk-kort 2,0 til SAP er 2004 2. Startdatoen for Microsoft BizTalk-adapter for MSMQ 2,0 er 10. december 2004\n\n## <a name=\"editions\"></a>Versioner \n* til MSMQ\n* til mySAP Business suite\n* for SAP"
+content: "\n\n> [!NOTE]\n> Startdatoen for Microsoft BizTalk Adapter 2.0 til SAP er den 2 november, 2004. Startdatoen for Microsoft BizTalk Adapter til MSMQ 2.0 er den 10. december, 2004\n\n## <a name=\"editions\"></a>Versioner \n* til MSMQ\n* til mySAP Business Suite\n* til SAP"

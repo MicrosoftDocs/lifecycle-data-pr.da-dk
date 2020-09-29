@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2010
-  description: Visio 2010 følger den faste livscykluspolitik.
+  description: Visio 2010 følger politikken for den faste livscyklus.
   ms.date: 09/01/2020
   keywords: Premium,Professional,Standard
   ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937848"
 name: Visio 2010
 summary: >+
-  Visio 2010 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
+  Visio 2010 følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for følgende versioner: Premium, Professional, standard
+  Dette gælder for de følgende versioner: Premium, Professional, Standard
 
 products:
 - office

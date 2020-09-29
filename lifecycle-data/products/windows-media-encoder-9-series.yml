@@ -6,16 +6,16 @@ metadata:
   keywords: 64 Bit,Standard
   ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939994"
 name: Windows Media Encoder 9 Series
 summary: >+
-  Windows Media Encoder 9 Series følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
+  Windows Media Encoder 9 Series følger [fast](/lifecycle/policies/fixed) livscykluspolitik.
 
 
-  Dette gælder for følgende versioner: 64 bit, standard
+  Dette gælder for de følgende versioner: 64 bit, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Windows Media Encoder 9 Series x64-udgaven udsendt den 15 2005.\n\n## <a name=\"editions\"></a>Versioner \n* 64 bit\n* Standard"
+content: "\n\n> [!NOTE]\n> Windows Media Encoder 9 Series x64 Edition udgivet den 15. september, 2005\n\n## <a name=\"editions\"></a>Versioner \n* 64 bit\n* Standard"

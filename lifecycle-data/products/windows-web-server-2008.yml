@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Web Server 2008
-  description: Windows Web Server 2008 følger den faste livscykluspolitik.
+  description: Windows Web Server 2008 følger politikken for fast livscyklus.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938884"
 name: Windows Web Server 2008
 summary: >+
-  Windows Web Server 2008 følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
+  Windows Web Server 2008 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
   Dette gælder for de følgende versioner: Standard
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> For hver Windows Server 2008 Service Pack 2 nåede dette produkt slutningen af support den 14, 2020.\n\n## <a name=\"editions\"></a>Versioner \n* Standard"
+content: "\n\n> [!NOTE]\n> I henhold til Windows Server 2008 Service Pack 2 nåede dette produkt ophør af support den 14. januar, 2020.\n\n## <a name=\"editions\"></a>Versioner \n* Standard"

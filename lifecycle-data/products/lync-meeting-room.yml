@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Mødelokale i Lync
-  description: Lync-mødelokalet følger politikken for fast livscyklus.
+  title: Lync Meeting Room
+  description: Lync Meeting Room følger politikken for den faste livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851296"
-name: Mødelokale i Lync
-summary: "Lync-mødelokalet følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.\n\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. Se vejledning til migrering. \n"
+name: Lync Meeting Room
+summary: "Lync Meeting Roomfølger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.\n\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt Se vejledningen til overførsler. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 09/01/2013
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"

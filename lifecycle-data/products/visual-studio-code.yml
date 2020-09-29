@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio-kode
-  description: Visual Studio-koden følger den moderne livscykluspolitik.
+  title: Visual Studio Code
+  description: Visual Studio Code følger politikken for moderne livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3d0488c1baf7058618ba22280b0795ecf6e5a6b4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851527"
-name: Visual Studio-kode
+name: Visual Studio Code
 summary: >+
-  Visual Studio-koden følger [den](/lifecycle/policies/modern) moderne livscykluspolitik.
+  Visual Studio Code følger politikken for [moderne](/lifecycle/policies/modern) livscyklus.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 04/14/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om vedligeholdelse](/visualstudio/productinfo/vs-servicing-mac)"
+content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om servicering](/visualstudio/productinfo/vs-servicing-mac)"

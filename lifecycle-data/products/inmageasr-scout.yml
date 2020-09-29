@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e7dc0cfa718919e8546b0d28c28ff8c0d3347d3b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851301"
 name: InMage Scout i Azure Site Recovery
 summary: >+
-  InMage Scout i Azure Site Recovery følger [den moderne](/lifecycle/policies/modern) livscykluspolitik.
+  InMage Scout i Azure Site Recovery følger den [moderne](/lifecycle/policies/modern) livscykluspolitik.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/01/2014
   endDate: 12/31/2020
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning i migration](https://aka.ms/asr-scout-doc)"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://aka.ms/asr-scout-doc)"

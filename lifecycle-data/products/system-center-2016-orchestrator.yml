@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center 2016 Orkester
+  title: System Center 2016 Orchestrator
   description: System Center 2016 Orchestrator følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5725bbb0002c3952fb18ff688be105c808e190b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851623"
-name: System Center 2016 Orkester
+name: System Center 2016 Orchestrator
 summary: >+
-  System Center 2016 Orchestrator følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  System Center 2016 Orchestrator følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 products:

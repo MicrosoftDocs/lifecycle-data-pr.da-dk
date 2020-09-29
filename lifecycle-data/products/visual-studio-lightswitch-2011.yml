@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851392"
 name: Visual Studio LightSwitch 2011
 summary: >+
-  Visual Studio LightSwitch 2011 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Visual Studio LightSwitch 2011 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2011
   endDate: 01/11/2022
-content: "\n## <a name=\"links\"></a>Links \n* [Lightswitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Power-apps](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 er den sidste version af Visual Studio, der indeholder LightSwitch-værktøjet. Vi anbefaler, at du bruger Microsoft PowerApps til enhver ny programudvikling."
+content: "\n## <a name=\"links\"></a>Links \n* [Lightswitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Power Apps](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 er den nyeste udgave af Visual Studio, der inkluderer LightSwitch-værktøjet. Vi anbefaler at bruge Microsoft PowerApps til ny applikationsudvikling."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuel Azure-maskine
-  description: Virtual Machine i Azure følger den moderne livscykluspolitik.
+  title: Azure Virtual Machine
+  description: Azure Virtual Machine følger politikken for moderne livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851377"
-name: Virtuel Azure-maskine
+name: Azure Virtual Machine
 summary: >+
-  Virtual Machine i Azure følger [den](/lifecycle/policies/modern) moderne livscykluspolitik.
+  Azure Virtual Machine følger politikken for [moderne](/lifecycle/policies/modern) livscyklus.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/07/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om vedligeholdelse](https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)"
+content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om servicering](https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)"

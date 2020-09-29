@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual J# .NET Version 1.1 Redistributable pakke
-  description: Visual J# .NET Version 1.1 Redistributable package følger politikken for fast livscyklus.
+  title: Visuel J# .NET Version 1.1 Redistributable Package
+  description: Visual J# .NET Version 1.1 Redistributable Package følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5cd64a881e213e1db23e4d7a0f7fe32baf3d8b12
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810676"
-name: Visual J# .NET Version 1.1 Redistributable pakke
+name: Visuel J# .NET Version 1.1 Redistributable Package
 summary: >+
-  Visual J# .NET Version 1.1 Redistributable package følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Visual J# .NET Version 1.1 Redistributable Package følger den [faste](/lifecycle/policies/fixed) livscykluspolitik.
 
 
 products:

@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: dbd86942458df27fd56cf1b799feaff49c954e5d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810498"
 name: Windows CE .NET 4.2
 summary: >
-  Windows CE .NET 4.2 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Windows CE .NET 4.2 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten til dette produkt er ophørt.
+  > Understøttelse af dette produkt er ophørt
 products:
 - windows
 policyType: fixed

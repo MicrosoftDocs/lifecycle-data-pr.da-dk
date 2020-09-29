@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Integreret CE 6.0
-  description: Windows Integreret CE 6.0 følger politikken for fast livscyklus.
+  title: Windows Embedded CE 6.0
+  description: Windows Embedded CE 6.0 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: a4dcc45afc796f07ef8606d1130588a449bd0e8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811032"
-name: Windows Integreret CE 6.0
+name: Windows Embedded CE 6.0
 summary: >
-  Windows Integreret CE 6.0 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Windows Embedded CE 6.0 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten til dette produkt er ophørt.
+  > Understøttelse af dette produkt er ophørt
 products:
 - windows
 policyType: fixed

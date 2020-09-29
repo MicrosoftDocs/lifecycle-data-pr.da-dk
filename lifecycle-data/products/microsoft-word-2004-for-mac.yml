@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 043ba3e5d96ecd646c431b32b300d1d277ba577d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811076"
 name: Microsoft Word 2004 til Mac
-summary: "Microsoft Word 2004 til Mac følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.\n\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. \n"
+summary: "Microsoft Word 2004 til Mac følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.\n\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt \n"
 products:
 - office
 policyType: fixed-mainstream-only

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Plus! Digital Media Edition
-  description: Microsoft Plus! Digital Media Edition følger politikken for fast livscyklus.
+  description: Microsoft Plus! Digital Media Edition følger den faste livscykluspolitik.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70735dde8da269fd12ebf6dabba3dcdbe33fbe76
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810558"
 name: Microsoft Plus! Digital Media Edition
 summary: >+
-  Microsoft Plus! Digital Media Edition følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Microsoft Plus! Digital Media Edition følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 products:

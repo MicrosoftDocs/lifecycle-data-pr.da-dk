@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sikkerhedskonsol til Microsoft Forefront Server
+  title: Microsoft Forefront Server Security Management Console
   description: Microsoft Forefront Server Security Management Console følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811154"
-name: Sikkerhedskonsol til Microsoft Forefront Server
+name: Microsoft Forefront Server Security Management Console
 summary: >+
-  Microsoft Forefront Server Security Management Console følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Forefront Server Security Management Console følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
 products:

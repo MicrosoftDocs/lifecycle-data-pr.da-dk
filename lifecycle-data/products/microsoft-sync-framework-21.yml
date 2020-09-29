@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: bc3dad267d8e7e0795160fa896915b06a7532b1c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811112"
 name: Microsoft Sync Framework 2.1
 summary: >+
-  Microsoft Sync Framework 2.1 følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Microsoft Sync Framework 2.1 følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
 products:

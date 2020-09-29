@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: aec33c5351d53108f34d6d36a6db1ba5d1a4b5c4
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811278"
 name: Excel 2008 til Mac
 summary: >
-  Excel 2008 til Mac følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.
+  Excel 2008 til Mac følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten til dette produkt er ophørt.
+  > Understøttelse af dette produkt er ophørt
 products:
 - office
 policyType: fixed-mainstream-only

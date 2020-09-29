@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 51b0adf9f1c97f1ab2032784a18f4d0fbd9912c0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810836"
 name: Microsoft Excel 2004 til Mac
-summary: "Microsoft Excel 2004 til Mac følger [politikken](/lifecycle/policies/fixed) for fast livscyklus.\n\n\n> [!IMPORTANT]\n> Supporten til dette produkt er ophørt. \n"
+summary: "Microsoft Excel 2004 til Mac følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.\n\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt \n"
 products:
 - office
 policyType: fixed-mainstream-only

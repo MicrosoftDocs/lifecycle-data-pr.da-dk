@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamik C5 2008
+  title: Dynamics C5 2008
   description: Dynamics C5 2008 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa21ee533af7b18e203b20be31a3cf453418a9ef
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: da-DK
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810598"
-name: Dynamik C5 2008
+name: Dynamics C5 2008
 summary: >+
-  Dynamics C5 2008 følger [politikken for](/lifecycle/policies/fixed) fast livscyklus.
+  Dynamics C5 2008 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 products:
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2007
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakke](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Links \n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)"

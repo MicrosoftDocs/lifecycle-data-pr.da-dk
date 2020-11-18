@@ -15,7 +15,7 @@ summary: >+
   Windows Server 2012 følger politikken for [fast](/lifecycle/policies/fixed) livcyklus.
 
 
-  Dette gælder for de følgende versioner: Datacenter, Essentials, External Connector, til Embedded Systems, Foundation, Standard
+  Dette gælder for de følgende versioner: Datacenter, Essentials, External Connector, for Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/windows-server/upgrade/upgrade-overview)\n* [Produktinformation](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Generel og udvidet support til dette produkt er blevet udvidet for at give kunderne en standardlivscyklusovergangsperiode. Windows Server Essentials udgivet den 2. januar, 2013\n\n## <a name=\"editions\"></a>Versioner \n* Datacenter\n* Essentials\n* Ekstern Connector\n* til Embedded Systems\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/windows-server/upgrade/upgrade-overview)\n* [Produktinformation](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Generel og udvidet support til dette produkt er blevet udvidet for at give kunderne en standardlivscyklusovergangsperiode. Windows Server Essentials udgivet den 2. januar, 2013\n\n## <a name=\"editions\"></a>Versioner \n* Datacenter\n* Essentials\n* External Connector\n* for Embedded Systems\n* Foundation\n* Standard"

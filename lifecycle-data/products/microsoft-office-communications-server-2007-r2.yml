@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001761"
 name: Microsoft Office Communications Server 2007 R2
-summary: "Microsoft Office Communications Server 2007 R2 følger politikken for [fast](/lifecycle/policies/fixed) livcyklus\n\nDette gælder for de følgende versioner: Alle gældende, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt Se vejledningen til overførsler. \n"
+summary: "Microsoft Office Communications Server 2007 R2 følger politikken for [fast](/lifecycle/policies/fixed) livcyklus\n\nDette gælder for de følgende versioner: Alle relevante, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt Se Vejledning om migrering. \n"
 products:
 - office
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway udgivet den 28/09-2009.\n\n## <a name=\"editions\"></a>Versioner \n* Alle  relevante\n* Enterprise\n* XMPP-gateway"
+content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway udgivet den 28/09-2009.\n\n## <a name=\"editions\"></a>Versioner \n* Alle  relevante\n* Enterprise\n* XMPP Gateway"

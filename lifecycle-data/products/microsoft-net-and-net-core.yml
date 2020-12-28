@@ -1,0 +1,47 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET og .NET Core
+  description: Microsoft .NET og .NET Core følger den moderne livscykluspolitik.
+  ms.date: 12/17/2020
+  keywords: ASP.NET Core,Entity Framework Core
+  ms.openlocfilehash: 6052955c370906a7e2ecc16cc1d24b3e055adc89
+  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
+  ms.translationtype: HT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "1347353"
+name: Microsoft .NET og .NET Core
+summary: >+
+  Microsoft .NET og .NET Core følger den [moderne](/lifecycle/policies/modern) livscyklus politik.
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: .NET 5.0
+  startDate: 11/10/2020
+- version: .NET Core 3.1 (LTS)
+  startDate: 12/03/2019
+  endDate: 12/03/2022
+- version: .NET Core 3.0
+  startDate: 09/23/2019
+  endDate: 03/03/2020
+- version: .NET Core 2.2
+  startDate: 12/04/2018
+  endDate: 12/23/2019
+- version: .NET Core 2.1 (LTS)
+  startDate: 05/30/2018
+  endDate: 08/21/2021
+- version: .NET Core 2.0
+  startDate: 08/14/2017
+  endDate: 10/01/2018
+- version: .NET Core 1.1
+  startDate: 11/16/2016
+  endDate: 06/27/2019
+- version: .NET Core 1.0
+  startDate: 06/27/2016
+  endDate: 06/27/2019
+content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om .NET Core-support (dotnet)](https://dotnet.microsoft.com/platform/support/policy/dotnet-core)\n* [.NET Core udgivelsesplan](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [.NET Core-produktoversigt](https://github.com/dotnet/core/blob/master/product-roadmap/current.md)\n* [Ofte stillede spørgsmål om livscyklus - .NET Core](/lifecycle/faq/dotnet-core)\n* [ASP.NET og ASP.NET Core-supportoplysninger](https://dotnet.microsoft.com/platform/support/policy/aspnet)\n* [Oplysninger om support til Entity Framework](/ef/core/what-is-new)\n\n> [!NOTE]\n> Fra og med .NET 5.0 er Microsoft .NET Core blevet omdøbt til .NET. \n>\n>ASP.NET Core og Entity Framework Core følger samme livscyklus som .NET Core."

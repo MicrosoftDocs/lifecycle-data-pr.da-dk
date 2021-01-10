@@ -1,25 +1,25 @@
 ---
 title: Eksport af livscyklusdata
 description: Eksportér oplysninger om produktlivscyklus
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335878"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367557"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="aba63-103">Eksport af livscyklusdata</span><span class="sxs-lookup"><span data-stu-id="aba63-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="6c128-103">Eksport af livscyklusdata</span><span class="sxs-lookup"><span data-stu-id="6c128-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="aba63-104">Eksportér alle produkter</span><span class="sxs-lookup"><span data-stu-id="aba63-104">Export all products</span></span>
-<span data-ttu-id="aba63-105">Eksportér livscyklusdata for alle produkter ved at klikke nedenfor:</span><span class="sxs-lookup"><span data-stu-id="aba63-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="6c128-104">Eksportér alle produkter</span><span class="sxs-lookup"><span data-stu-id="6c128-104">Export all products</span></span>
+<span data-ttu-id="6c128-105">Eksportér livscyklusdata for alle produkter ved at klikke nedenfor:</span><span class="sxs-lookup"><span data-stu-id="6c128-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="aba63-106">Eksportér alle produkter</span><span class="sxs-lookup"><span data-stu-id="aba63-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="6c128-106">Eksportér alle produkter</span><span class="sxs-lookup"><span data-stu-id="6c128-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="aba63-107">Eksportér produkter efter familie og gruppe</span><span class="sxs-lookup"><span data-stu-id="aba63-107">Export products by Family and Group</span></span>
-<span data-ttu-id="aba63-108">Vælg en familie og derefter en gruppe, der skal eksporteres.</span><span class="sxs-lookup"><span data-stu-id="aba63-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="aba63-109">Bemærk! Eksporten starter, når Gruppeværdien er valgt.</span><span class="sxs-lookup"><span data-stu-id="aba63-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="6c128-107">Eksportér produkter efter familie og gruppe</span><span class="sxs-lookup"><span data-stu-id="6c128-107">Export products by Family and Group</span></span>
+<span data-ttu-id="6c128-108">Vælg en familie og derefter en gruppe, der skal eksporteres.</span><span class="sxs-lookup"><span data-stu-id="6c128-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="6c128-109">Bemærk! Eksporten starter, når Gruppeværdien er valgt.</span><span class="sxs-lookup"><span data-stu-id="6c128-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Familie" title2="Gruppe"]
 > - [(.NET | Alle)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335878"
 > - [(Windows | Security)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="aba63-170">Eksportér produkter efter slutdato for support</span><span class="sxs-lookup"><span data-stu-id="aba63-170">Export products by end of support date</span></span>
-<span data-ttu-id="aba63-171">Vælg et år for at se produkter hvor supporten udløber.</span><span class="sxs-lookup"><span data-stu-id="aba63-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="aba63-172">Bemærk! Eksporten begynder, når årstallet er valgt.</span><span class="sxs-lookup"><span data-stu-id="aba63-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="6c128-170">Eksportér produkter efter slutdato for support</span><span class="sxs-lookup"><span data-stu-id="6c128-170">Export products by end of support date</span></span>
+<span data-ttu-id="6c128-171">Vælg et år for at se produkter hvor supporten udløber.</span><span class="sxs-lookup"><span data-stu-id="6c128-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="6c128-172">Bemærk! Eksporten begynder, når årstallet er valgt.</span><span class="sxs-lookup"><span data-stu-id="6c128-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [Næste 12 måneder](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [Næste 6 måneder](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))

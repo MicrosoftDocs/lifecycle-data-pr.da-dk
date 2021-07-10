@@ -2,14 +2,14 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 følger politikken for fast livscyklus.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Datacenter without Hyper-V,Enterprise,Enterprise without Hyper-V,for Itanium-Based Systems,Foundation,Standard,Standard without Hyper-V,Web
-  ms.openlocfilehash: 30b07c95bb7d37ab822e5e2238983fd70d918889
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 04/23/2021
+  keywords: 
+  ms.openlocfilehash: 9f958fbc26dddbf3e388c598e868b94eb1713541
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939513"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029832"
 name: Windows Server 2008
 summary: "Windows Server 2008 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus. \n\nDette gælder for de følgende versioner: Datacenter, Datacenter uden Hyper-V, Enterprise, Enterprise uden Hyper-V, til Itanium-baserede systemer, Foundation, Standard, Standard uden Hyper-V, Web\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt Se vejledningen til migrering nedenfor.\n"
 products:
@@ -20,10 +20,19 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 3
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1
+  startDate: 01/14/2020
+  endDate: 01/12/2021
 - version: Service Pack 2
   startDate: 04/29/2009
   endDate: 01/14/2020
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://aka.ms/AA1ovn4)\n* [Oplysninger om serveropgradering](/windows-server/upgrade/upgrade-overview)\n* [Det udvidede sikkerhedsopdateringsprogram (ESU-program)](/lifecycle/faq/extended-security-updates)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Extended Security Updates (ESU) er tilgængelige til versionerne Datacenter, Standard, Enterprise og Embedded versioner af dette produkt i op til yderligere tre år efter udløb af support. Kontakt din Microsoft-partner eller dit kontohold for at få mere at vide. \n\nUdgivelsesdato ------------------------------- Startdato----Slutdato\n\nUdvidet sikkerhedsopdatering år 3---11/01/2022---10/01/2023\n\nUdvidet sikkerhedsopdatering år 2---12/01/2021---11/01/2022\n\nUdvidet sikkerhedsopdatering år 1---14/01/2020---12/01/2021\n> [!NOTE]\n> Windows Server 2008 Foundation udgivet den 21. maj, 2009\n\n## <a name=\"editions\"></a>Versioner \n* Datacenter\n* Datacenter uden Hyper-V\n* Enterprise\n* Enterprise uden Hyper-V\n* til Itanium-baserede systemer\n* Foundation\n* Standard\n* Standard uden Hyper-V\n* Web"
+content: "> [!TIP]\n> Extended Security Updates (ESU) er tilgængelige til versionerne Datacenter, Standard, Enterprise og Embedded versioner af dette produkt i op til yderligere tre år efter udløb af support. Kontakt din Microsoft-partner eller dit kontohold for at få mere at vide. \n\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://aka.ms/AA1ovn4)\n* [Oplysninger om serveropgradering](/windows-server/upgrade/upgrade-overview)\n* [Det udvidede sikkerhedsopdateringsprogram (ESU-program)](/lifecycle/faq/extended-security-updates)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Windows Server 2008 Foundation udgivet den 21. maj, 2009\n\n## <a name=\"editions\"></a>Versioner \n* Datacenter\n* Datacenter uden Hyper-V\n* Enterprise\n* Enterprise uden Hyper-V\n* til Itanium-baserede systemer\n* Foundation\n* Standard\n* Standard uden Hyper-V\n* Web"

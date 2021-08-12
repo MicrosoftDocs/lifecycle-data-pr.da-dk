@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Office til Mac 2011 følger politikken for fast livscyklus.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Business Home Use Program,Home and Student,Standard
-  ms.openlocfilehash: 916b05553555af4525fb9c94660627d4aef386e6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 56c5f61385cbdeddafe8571c1439650f85b73f42bcc23bc840f246af69bbe957
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933223"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2524184"
 name: Microsoft Office til Mac 2011
 summary: >+
   Microsoft Office til Mac 2011 følger politikken for den [Faste](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for de følgende versioner: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
+  Dette gælder for de følgende versioner: Academic, Home og Business, Home og Business Home Use Program, Home og Student, Standard
 
 products:
 - office

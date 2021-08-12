@@ -4,12 +4,12 @@ metadata:
   description: Internet Explorer 11 følger komponentlivscykluspolitikken.
   ms.date: 05/18/2021
   keywords: 
-  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.openlocfilehash: 3224f71b4a69cb311899809b385069ab7e3664274146044d9d624e29d3cde008
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029499"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2519744"
 name: Internet Explorer 11
 summary: "Internet Explorer 11 følger [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykluspolitikken. \n\n\n\n\n> [!IMPORTANT]\n> Skrivebordsprogrammet Internet Explorer (IE) 11 slutter understøttelse af visse operativsystemer fra 15. juni 2022. Kunder opfordres til at flytte til Microsoft Edge med IE-tilstand. IE-tilstand muliggør bagudkompatibilitet og understøttes indtil mindst 2029. Derudover giver Microsoft besked et år inden IE-tilstand trækkes tilbage. Gå [hertil](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) for at få en liste over understøttede operativsystemer til Internet Explorer, herunder versioner, der påvirkes af denne meddelelse.\n\n"
 products:

@@ -3,35 +3,39 @@ metadata:
   title: FAST Search Server 2010 (til SharePoint og til SharePoint Internet Sites)
   description: FAST Search Server 2010 (til SharePoint og til SharePoint Internet Sites) følger politikken for fast livscyklus.
   ms.date: 09/01/2020
-  keywords: for SharePoint,for SharePoint Internet Sites
-  ms.openlocfilehash: c027838c1f802c0ed026d733a9412fe15980c093
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936146"
+  keywords: 'for SharePoint,for SharePoint Internet Sites'
 name: FAST Search Server 2010 (til SharePoint og til SharePoint Internet Sites)
-summary: >+
+summary: |+
   FAST Search Server 2010 (for SharePoint og til SharePoint Internet Sites) følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
-
 
   Dette gælder for følgende udgaver: for SharePoint og for SharePoint Internet Sites
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/16/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 10/13/2020
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 07/23/2014
-- version: Original Release
-  startDate: 06/16/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Udelader versioner, der tidligere har ophørt support. Support til dette produkt er underlagt vilkårene for dets erhvervelse.\n\n## <a name=\"editions\"></a>Versioner \n* til SharePoint\n* til SharePoint Internet Sites"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 10/13/2020
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 07/23/2014
+  - version: Original Release
+    startDate: 06/16/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Vejledning om migrering](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)
+  * [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Udelader versioner, der tidligere har ophørt support. Support til dette produkt er underlagt vilkårene for dets erhvervelse.
+
+  ## <a name="editions"></a>Versioner 
+  * til SharePoint
+  * til SharePoint Internet Sites

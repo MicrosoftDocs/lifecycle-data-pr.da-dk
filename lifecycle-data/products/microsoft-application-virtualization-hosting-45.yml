@@ -1,41 +1,40 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.5 til Windows Desktop
+  title: Microsoft Application Virtualization Hosting 4.5 til Windows-skriveborde
   description: Microsoft Application Virtualization Hosting 4.5 til Windows Desktop følger politikken for fast livscyklus.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 50fe924f5e1b5968a41beea54c1cc30d5df28434
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935480"
 name: Microsoft Application Virtualization Hosting 4.5 til Windows-skriveborde
-summary: >
+summary: |
   Microsoft Application Virtualization Hosting 4.5 til Windows Desktop følger politikken for den [Faste](/lifecycle/policies/fixed) livscyklus.
-
 
   Dette gælder for de følgende versioner: Windows Desktops
 
-
   > [!IMPORTANT]
-
   > Understøttelse af dette produkt er ophørt Se oplysninger om overførsel nedenfor.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/23/2008
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Service Pack 2
-  startDate: 08/15/2010
-  endDate: 01/08/2019
-- version: Service Pack 1
-  startDate: 12/13/2009
-  endDate: 10/11/2011
-- version: Original Release
-  startDate: 11/23/2008
-  endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Information om produkter og migrering](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* For Windows Desktops"
+  - version: Service Pack 2
+    startDate: 08/15/2010
+    endDate: 01/08/2019
+  - version: Service Pack 1
+    startDate: 12/13/2009
+    endDate: 10/11/2011
+  - version: Original Release
+    startDate: 11/23/2008
+    endDate: 01/11/2011
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Information om produkter og migrering](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Versioner 
+  * For Windows Desktops

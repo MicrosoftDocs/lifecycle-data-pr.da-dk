@@ -3,29 +3,30 @@ metadata:
   title: Microsoft Lync 2010
   description: Microsoft Lync 2010 følger politikken for fast livscyklus.
   ms.date: 10/20/2020
-  keywords: 
-  ms.openlocfilehash: a9bb16d3231175342172806518fbae8913450493
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162808"
+  keywords: null
 name: Microsoft Lync 2010
-summary: >+
+summary: |+
   Microsoft Lync 2010 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
-
 
   Dette gælder for de følgende versioner: Attendant, Attendee, Gruppechat, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/25/2011
   end: 04/12/2016
   extendedEnd: 04/13/2021
 releases:
-- version: Original Release
-  startDate: 01/25/2011
-  endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Versioner \n* Attendant\n* Attendee\n* Gruppechat\n* Standard"
+  - version: Original Release
+    startDate: 01/25/2011
+    endDate: 04/13/2021
+content: |
+
+
+
+  ## <a name="editions"></a>Versioner 
+  * Attendant
+  * Attendee
+  * Gruppechat
+  * Standard

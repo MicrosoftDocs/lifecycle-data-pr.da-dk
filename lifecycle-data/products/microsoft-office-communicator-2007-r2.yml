@@ -3,24 +3,32 @@ metadata:
   title: Microsoft Office Communicator 2007 R2
   description: Microsoft Office Communicator 2007 R2 følger politikken for fast livcyklus.
   ms.date: 09/10/2020
-  keywords: All applicable,Phone
-  ms.openlocfilehash: 1c08a0c9475ec3d3e6cfb381385a78a71b514d66
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001716"
+  keywords: 'All applicable,Phone'
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2 følger politikken for den [faste](/lifecycle/policies/fixed) livcyklus.\n\nDette gælder for de følgende versioner: Alle relevante, Phone\n\n> [!IMPORTANT]\n> Understøttelse af dette produkt er ophørt Se Vejledning om migrering. \n"
+summary: |
+  Microsoft Office Communicator 2007 R2 følger politikken for den [faste](/lifecycle/policies/fixed) livcyklus.
+
+  Dette gælder for de følgende versioner: Alle gældende, Phone
+
+  > [!IMPORTANT]
+  > Understøttelse af dette produkt er ophørt Se vejledningen til overførsler. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/19/2009
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Original Release
-  startDate: 03/19/2009
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Versioner \n* Alle  relevante\n* Telefon"
+  - version: Original Release
+    startDate: 03/19/2009
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Vejledning om migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)
+
+
+  ## <a name="editions"></a>Versioner 
+  * Alle  relevante
+  * Telefon

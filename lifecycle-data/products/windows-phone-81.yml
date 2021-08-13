@@ -3,29 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 følger politikken for fast livscyklus.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851434"
 name: Windows Phone 8.1
-summary: >
+summary: |
   Windows Phone 8.1 følger politikken for  [fast](/lifecycle/policies/fixed) livcyklus.
 
 
-
   > [!IMPORTANT]
-
   > Understøttelse af dette produkt er ophørt
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Ofte stillede spørgsmål om Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft stiller opdateringer til rådighed for operativsystemet, herunder sikkerhedsopdateringer, i mindst 36 måneder efter livcyklussens startdato. Disse opdateringer gennemføres trinvist, idet hver enkelt opdatering bygger på den foregående opdatering. Kunderne skal installere hver opdatering der udgives for at beholde supporten. Distributionen af disse trinvise opdateringer kan styres af mobiloperatøren eller den telefonproducent, hvorfra du har købt telefonen, og installationen kræver, at telefonen har tidligere udsendte opdateringer. Tilgængeligheden af opdateringer varierer også efter land, område og hardwarefunktioner."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>Links 
+  * [Ofte stillede spørgsmål om Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > Microsoft stiller opdateringer til rådighed for operativsystemet, herunder sikkerhedsopdateringer, i mindst 36 måneder efter livcyklussens startdato. Disse opdateringer gennemføres trinvist, idet hver enkelt opdatering bygger på den foregående opdatering. Kunderne skal installere hver opdatering der udgives for at beholde supporten. Distributionen af disse trinvise opdateringer kan styres af mobiloperatøren eller den telefonproducent, hvorfra du har købt telefonen, og installationen kræver, at telefonen har tidligere udsendte opdateringer. Tilgængeligheden af opdateringer varierer også efter land, område og hardwarefunktioner.

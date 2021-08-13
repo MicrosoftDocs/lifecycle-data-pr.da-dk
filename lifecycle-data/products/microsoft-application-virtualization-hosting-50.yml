@@ -1,40 +1,41 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 5.0 til Windows Desktops
+  title: Microsoft Application Virtualization Hosting 5.0 til Windows-skriveborde
   description: Microsoft Application Virtualization Hosting 5.0 til Windows Desktops følger politikken for den faste livstidscyklus.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 640b1312c2eba7e693edbd82f34378619036195e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935369"
-name: Microsoft Application Virtualization Hosting 5.0 til Windows Desktops
-summary: >+
+name: Microsoft Application Virtualization Hosting 5.0 til Windows-skriveborde
+summary: |+
   Microsoft Application Virtualization Hosting 5.0 til Windows Desktops følger politikken for den [Faste](/lifecycle/policies/fixed) livstidscyklus.
-
 
   Dette gælder for de følgende versioner: Windows Desktops
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/01/2012
   end: 01/09/2018
   extendedEnd: 04/14/2026
 releases:
-- version: Service Pack 3
-  startDate: 12/08/2014
-  endDate: 04/14/2026
-- version: Service Pack 2
-  startDate: 11/08/2013
-  endDate: 01/12/2016
-- version: Service Pack 1
-  startDate: 04/10/2013
-  endDate: 01/13/2015
-- version: Original Release
-  startDate: 11/01/2012
-  endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Produktinformation](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versioner \n* For Windows Desktops"
+  - version: Service Pack 3
+    startDate: 12/08/2014
+    endDate: 04/14/2026
+  - version: Service Pack 2
+    startDate: 11/08/2013
+    endDate: 01/12/2016
+  - version: Service Pack 1
+    startDate: 04/10/2013
+    endDate: 01/13/2015
+  - version: Original Release
+    startDate: 11/01/2012
+    endDate: 07/08/2014
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Produktinformation](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Versioner 
+  * For Windows Desktops

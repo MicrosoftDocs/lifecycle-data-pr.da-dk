@@ -3,31 +3,29 @@ metadata:
   title: Microsoft Edge
   description: Microsoft Edge følger den moderne livscyklus politik.
   ms.date: 07/17/2021
-  keywords: 
-  ms.openlocfilehash: 81aabf800a7f4fa41266ade0acae6723211cdc4f
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172034"
+  keywords: null
 name: Microsoft Edge
-summary: >+
+summary: |+
   Microsoft Edge følger den [moderne](/lifecycle/policies/modern) livscyklus politik.
 
 
 
 
-
   > [!IMPORTANT]
-
   > Bemærk, at support til den ældre version af dette produkt ophører 9. marts 2021. Få mere at vide [her](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 
 products:
-- microsoft-edge
+  - microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-- version: Original Release
-  startDate: 01/15/2020
-content: "\n\n## <a name=\"links\"></a>Links \n* [Understøttede operativsystemer til Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Ofte stillede spørgsmål om livscyklus – Internet Explorer og Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsofts Edge politik for livscyklus](/deployedge/microsoft-edge-support-lifecycle)"
+  - version: Original Release
+    startDate: 01/15/2020
+content: |+
+
+
+  ## <a name="links"></a>Links 
+  * [Understøttede operativsystemer til Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)
+  * [Ofte stillede spørgsmål om livscyklus – Internet Explorer og Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
+  * [Microsofts Edge politik for livscyklus](/deployedge/microsoft-edge-support-lifecycle)

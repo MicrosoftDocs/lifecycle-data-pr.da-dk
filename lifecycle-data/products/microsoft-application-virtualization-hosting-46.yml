@@ -1,40 +1,43 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.6 til Windows Desktops
+  title: Microsoft Application Virtualization Hosting 4.6 til Windows-skriveborde
   description: Microsoft Application Virtualization Hosting 4.6 til Windows Desktops følger politikken for fast livscyklus.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935443"
-name: Microsoft Application Virtualization Hosting 4.6 til Windows Desktops
-summary: >+
+name: Microsoft Application Virtualization Hosting 4.6 til Windows-skriveborde
+summary: |+
   Microsoft Application Virtualization Hosting 4.6 til Windows Desktops følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
-
 
   Dette gælder for de følgende versioner: Windows Desktops
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Information om produkter og migrering](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Da App-V 4.6-klienten anvender App-V 4.5-serveren, understøttes App-V 4.5-serveren fortsat i henhold til livscyklusdatoerne for App-V 4.6, når den bruges sammen med den understøttede App-V 4.6-klient.\n\n## <a name=\"editions\"></a>Versioner \n* For Windows Desktops"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Information om produkter og migrering](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Politik for servicepakker](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Da App-V 4.6-klienten anvender App-V 4.5-serveren, understøttes App-V 4.5-serveren fortsat i henhold til livscyklusdatoerne for App-V 4.6, når den bruges sammen med den understøttede App-V 4.6-klient.
+
+  ## <a name="editions"></a>Versioner 
+  * For Windows Desktops

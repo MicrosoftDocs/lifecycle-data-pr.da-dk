@@ -3,30 +3,29 @@ metadata:
   title: Microsoft Forefront Endpoint Protection 2010
   description: Microsoft Forefront Endpoint Protection 2010 følger politikken for fast livcyklus.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851453"
 name: Microsoft Forefront Endpoint Protection 2010
-summary: >
+summary: |
   Microsoft Forefront Endpoint Protection 2010 følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
-
   > [!IMPORTANT]
-
   > Supporten er ophørt. Se vejledningen til migrering nedenfor.
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/31/2011
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 03/31/2011
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Oplysninger om servicering](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Kunderne skal holde sig opdateret med den seneste opdatering til antimalwareplatform for at få fuld support. Forefront Endpoint Protection 2010 er omfattet af den samme livcykluspolitik som System Center Configuration Manager 2007 til både generel og udvidet support."
+  - version: Original Release
+    startDate: 03/31/2011
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>Links 
+  * [Vejledning om migrering](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)
+  * [Oplysninger om servicering](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)
+
+  > [!NOTE]
+  > Kunderne skal holde sig opdateret med den seneste opdatering til antimalwareplatform for at få fuld support. Forefront Endpoint Protection 2010 er omfattet af den samme livcykluspolitik som System Center Configuration Manager 2007 til både generel og udvidet support.

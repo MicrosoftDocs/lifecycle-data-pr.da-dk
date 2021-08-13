@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 følger politikken for fast livscyklus.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940809"
 name: Windows Phone 8
-summary: >+
+summary: |+
   Windows Phone 8 følger politikken for [fast](/lifecycle/policies/fixed) livscyklus.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> Microsoft stiller opdateringer til rådighed for operativsystemet, herunder sikkerhedsopdateringer, i mindst 36 måneder efter livcyklussens startdato. Disse opdateringer gennemføres trinvist, idet hver enkelt opdatering bygger på den foregående opdatering. Kunderne skal installere hver opdatering der udgives for at beholde supporten. Distributionen af disse trinvise opdateringer kan styres af mobiloperatøren eller den telefonproducent, hvorfra du har købt telefonen, og installationen kræver, at telefonen har tidligere udsendte opdateringer. Tilgængeligheden af opdateringer varierer også efter land, område og hardwarefunktioner."
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft stiller opdateringer til rådighed for operativsystemet, herunder sikkerhedsopdateringer, i mindst 36 måneder efter livcyklussens startdato. Disse opdateringer gennemføres trinvist, idet hver enkelt opdatering bygger på den foregående opdatering. Kunderne skal installere hver opdatering der udgives for at beholde supporten. Distributionen af disse trinvise opdateringer kan styres af mobiloperatøren eller den telefonproducent, hvorfra du har købt telefonen, og installationen kræver, at telefonen har tidligere udsendte opdateringer. Tilgængeligheden af opdateringer varierer også efter land, område og hardwarefunktioner.

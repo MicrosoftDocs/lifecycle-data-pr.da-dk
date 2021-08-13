@@ -3,25 +3,23 @@ metadata:
   title: Powerpoint 2011 til Mac
   description: PowerPoint 2011 til Mac følger politikken for fast livscyklus.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851570"
 name: Powerpoint 2011 til Mac
-summary: >+
+summary: |+
   PowerPoint 2011 til Mac følger politikken for den [faste](/lifecycle/policies/fixed) livscyklus.
 
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/09/2010
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 12/09/2010
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Generel support til Microsoft Office til Mac 2011 udvides som vist her, for at give alle kunder en standard livscyklusovergangs-tidslinje."
+  - version: Original Release
+    startDate: 12/09/2010
+    endDate: 10/10/2017
+content: |+
+
+
+  > [!NOTE]
+  > Generel support til Microsoft Office til Mac 2011 udvides som vist her, for at give alle kunder en standard livscyklusovergangs-tidslinje.

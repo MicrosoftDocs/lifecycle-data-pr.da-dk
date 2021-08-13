@@ -1,11 +1,13 @@
 ### YamlMime:ContentBrowser
 title: Søg i produkt- og services livscyklusoplysninger
 browseType: lifecycle
-summary: "\n> [!NOTE]\n> Eksporter livscyklusoplysninger fra siden [Eksport af livscyklus](/lifecycle/products/export).\n\n\nMicrosoft Lifecycle giver konsistente og forudsigelige retningslinjer for support gennem et produkts levetid, hvilket hjælper kunder med at administrere deres it-investeringer og -miljøer, mens de strategisk planlægger fremtiden.\n\n\nSøg nedenfor for en liste over Microsoft kommercielle produkter og tjenester, og vælg derefter dit resultat for at finde support- og servicetidslinjer, krævede opdateringer, migrationsoplysninger og systemkrav."
-metadata:
-  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
-  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "943027"
+summary: |-
+
+  > [!NOTE]
+  > Eksporter livscyklusoplysninger fra siden [Eksport af livscyklus](/lifecycle/products/export).
+
+
+  Microsoft Lifecycle giver konsistente og forudsigelige retningslinjer for support gennem et produkts levetid, hvilket hjælper kunder med at administrere deres it-investeringer og -miljøer, mens de strategisk planlægger fremtiden.
+
+
+  Søg nedenfor for en liste over Microsoft kommercielle produkter og tjenester, og vælg derefter dit resultat for at finde support- og servicetidslinjer, krævede opdateringer, migrationsoplysninger og systemkrav.

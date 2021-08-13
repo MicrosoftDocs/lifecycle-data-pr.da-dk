@@ -3,28 +3,30 @@ metadata:
   title: Windows Server 2016 Nano Server installationsmulighed
   description: Installationsmuligheden til Windows Server 2016 Nano Server følger politikken for moderne livscyklus.
   ms.date: 09/01/2020
-  keywords: Datacenter,Standard
-  ms.openlocfilehash: bff4ec8ee63d0221e316da49081ebc964e520966
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939402"
+  keywords: 'Datacenter,Standard'
 name: Windows Server 2016 Nano Server installationsmulighed
-summary: >+
+summary: |+
   Installationsmuligheden til Windows Server 2016 Nano Server følger politikken for den [Moderne](/lifecycle/policies/modern) livscyklus.
-
 
   Dette gælder for de følgende versioner: Datacenter, Standard
 
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 10/15/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om servicering](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Ofte stillede spørgsmål om livscyklus – Windowsprodukter](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Versioner \n* Datacenter\n* Standard"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 10/09/2018
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Oplysninger om servicering](/windows-server/get-started/nano-in-semi-annual-channel)
+  * [Ofte stillede spørgsmål om livscyklus – Windowsprodukter](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>Versioner 
+  * Datacenter
+  * Standard

@@ -3,24 +3,22 @@ metadata:
   title: FSLogix
   description: FSLogix følger den moderne livscykluspolitik.
   ms.date: 12/07/2020
-  keywords: 
-  ms.openlocfilehash: dfb32452fc063ade9afd59e990b13f3e93c3f76a
-  ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
-  ms.translationtype: HT
-  ms.contentlocale: da-DK
-  ms.lasthandoff: 12/08/2020
-  ms.locfileid: "1335804"
+  keywords: null
 name: FSLogix
-summary: >+
+summary: |+
   FSLogix følger den [moderne](/lifecycle/policies/modern) livscykluspolitik.
 
 
 products:
-- windows
+  - windows
 policyType: modern-online
 supportDates:
   start: 06/05/2020
 releases:
-- version: Original Release
-  startDate: 06/05/2020
-content: "\n## <a name=\"links\"></a>Links \n* [Hent og installer FSLogix](/fslogix/install-ht)\n* [Sådan åbner du en FSLogix supportanmodning](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)"
+  - version: Original Release
+    startDate: 06/05/2020
+content: |+
+
+  ## <a name="links"></a>Links 
+  * [Hent og installer FSLogix](/fslogix/install-ht)
+  * [Sådan åbner du en FSLogix supportanmodning](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)

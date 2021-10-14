@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013 følger politikken for fast livscyklus.
-  ms.date: 09/01/2020
-  keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: be98b464a1f267f12c314361f99e1cd7b62cbd5b2fe52619cee9119917d437b2
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 6ae47f9d9b67de20ecd407da68c7b570ebfc14f5
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
   ms.translationtype: HT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2487184"
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509244"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 følger politikken for [Fast](/lifecycle/policies/fixed) livscyklus.
 
 
-  Dette gælder for de følgende versioner: Agents, All, Community, Express til web, Express til Windows, Express til Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC-bibliotek, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tool Extensions
+
+  Dette gælder for følgende udgaver: Community, Express til web, Express til Windows, Express til Windows Desktop, Premium, Professional, Release Management, Test Professional, Ultimate
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Links \n* [Oplysninger om servicering](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Versioner \n* Agents\n* Alle\n* Community\n* Express til Web\n* Express til Windows\n* Express til Windows Desktop\n* IntelliTrace Colletor\n* Modeling SDK\n* Multibyte MFC Bibliotek\n* Premium\n* Professional\n* Administration af udgivelse\n* Fjernværktøjer\n* SDK\n* Shell (integreret)\n* Shell (isoleret)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable \n* Web Tools Extensions"
+content: "\n\n## <a name=\"links\"></a>Links \n* [Oplysninger om servicering](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n> [!NOTE]\n> Visual Studio 2013-versioner af følgende komponenter medfølger i leveringen og understøttes som en del af livscyklussen for Visual Studio 2013: Agenter, IntelliTrace Collector, Modelling SDK, Multibyte MFC Library, Remote Tools, SDK, Shell (integreret), Shell (isoleret), Team Explorer, Visual C++ Redistributable, Web Tools Extensions\n\n\n## <a name=\"editions\"></a>Versioner \n* Community\n* Express til Web\n* Express til Windows\n* Express til Windows Desktop\n* Premium\n* Professional\n* Administration af udgivelse\n* Test Professional\n* Ultimate"

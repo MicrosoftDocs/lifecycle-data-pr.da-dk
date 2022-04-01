@@ -1,13 +1,13 @@
 ---
 title: Produkter, hvor support ophører i 2028
 description: Find ud af, hvilke produkter, der udgår, ikke længere supporteres eller overgår fra generel support til udvidet support i 2028.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4027691"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116954"
 ---
 # <a name="products-ending-support-in-2028"></a>Produkter, hvor support ophører i 2028
 
@@ -39,3 +39,11 @@ Support for følgende produkter og udgivelser, som reguleres af den [faste polit
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | 11. juli 2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>Produkter, der går over til udvidet support
+
+Følgende produkter flyttes fra mainstream til udvidet support i 2028. Udvidet support inkluderer gratis sikkerhedsopdateringer og betalte ikke-sikkerhedsrelaterede opdateringer og support. Derudover accepterer Microsoft ikke anmodninger om designændringer eller nye funktioner i den udvidede supportfase.
+
+| Produkt | Ophør af mainstream support |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 11. april 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 11. juli 2028 |

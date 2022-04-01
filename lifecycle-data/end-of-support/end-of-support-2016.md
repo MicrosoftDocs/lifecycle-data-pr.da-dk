@@ -1,13 +1,13 @@
 ---
 title: Produkter, hvor support ophører i 2016
 description: Find ud af, hvilke produkter, der udgår, ikke længere supporteres eller overgår fra generel support til udvidet support i 2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4027785"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117546"
 ---
 # <a name="products-ending-support-in-2016"></a>Produkter, hvor support ophører i 2016
 
@@ -20,13 +20,6 @@ Hvis du har spørgsmål om support for et produkt, skal du kontakte din Microsof
 
 
 
-## <a name="release-end-of-servicing"></a>Slutdato for servicering
-
-Følgende produkter og udgivelser, der er underlagt den [moderne politik](/lifecycle/policies/modern), ophører med at modtage support i 2016.
-
-| Produkt | Slutdato for servicering |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, Version 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 8. december 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Ophør af support for produkterne

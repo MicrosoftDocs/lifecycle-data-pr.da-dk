@@ -1,13 +1,13 @@
 ---
 title: Produkter, hvor support ophører i 2021
 description: Find ud af, hvilke produkter, der udgår, ikke længere supporteres eller overgår fra generel support til udvidet support i 2021.
-ms.date: 11/03/2021
-ms.openlocfilehash: a3404257f04c2f022e648e067f78204a220bd3fc
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 01/14/2022
+ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4027872"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117472"
 ---
 # <a name="products-ending-support-in-2021"></a>Produkter, hvor support ophører i 2021
 
@@ -24,7 +24,7 @@ Følgende produkter, som reguleres af den [moderne politik](/lifecycle/policies
 
 | Produkt | Ophør |
 | --- | --- |
-| [Azure information Protection-klient](/lifecycle/products/azure-information-protection-client?branch=live)<br> | 31. marts 2021 |
+| [Azure Information Protection klassisk klient](/lifecycle/products/azure-information-protection-classic-client?branch=live)<br> | 31. marts 2021 |
 | [Azure Dev Spaces](/lifecycle/products/azure-dev-spaces?branch=live)<br> | 15. maj 2021 |
 | [Skype for Business Online](/lifecycle/products/skype-for-business-online?branch=live)<br> | 31. juli 2021 |
 | [Dynamics 365 Layout](/lifecycle/products/dynamics-365-layout?branch=live)<br> | 31. december 2021 |
@@ -39,7 +39,7 @@ Følgende produkter og udgivelser, der er underlagt den [moderne politik](/lifec
 | [Microsoft Endpoint Configuration Manager, version 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 26. januar 2021 |
 | [Dynamics 365 Business Central på stedets (moderne politik), 2019-udgivelse bølge 2, version 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13. april 2021 |
 | [Windows 10 Enterprise og Education, version 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise og Education, version 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home og Pro, version 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, version 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, version 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, version 1909](/lifecycle/products/windows-server?branch=live)<br> | 11. maj 2021 |
-| [Microsoft Endpoint Configuration Manager, version 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29. maj 2021 |
+| [Microsoft Endpoint Configuration Manager, Version 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, version 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29. maj 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 21. august 2021 |
 | [Microsoft Endpoint Configuration Manager, version 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1. oktober 2021 |
 | [Dynamics 365 Business Central på stedet (moderne politik), 2020-udgivelse bølge 1, version 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12. oktober 2021 |

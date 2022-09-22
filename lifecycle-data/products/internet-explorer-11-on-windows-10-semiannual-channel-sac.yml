@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 11 på Windows 10 Semi-Annual-kanal (SAC)
+  description: Internet Explorer 11 på Windows 10 Semi-Annual-kanal (SAC) følger komponentlivscykluspolitikken.
+  ms.date: 2022/06/23
+  keywords: browser,ie,IE11,sac,semi-annual-kanal
+  ms.openlocfilehash: 345e9952b9b3e16724e8e13bc928eb50605e031f
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: da-DK
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519112"
+name: Internet Explorer 11 på Windows 10 Semi-Annual-kanal (SAC)
+summary: >+
+  Internet Explorer 11 på Windows 10 Semi-Annual-kanal (SAC) følger [Komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykluspolitikken.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Desktopprogrammet Internet Explorer (IE) 11 slutter support af Windows 10 semi-annual-kanal fra 15. juni 2022. Kunder opfordres til at flytte til Microsoft Edge med IE-tilstand. IE-tilstand muliggør bagudkompatibilitet og understøttes indtil mindst 2029. Derudover giver Microsoft besked et år inden IE-tilstand trækkes tilbage. Gå [hertil](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer) for at få en liste over understøttede operativsystemer til Internet Explorer, herunder versioner, der påvirkes af denne meddelelse.
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 2013-11-13T00:00:00.000-08:00
+  end: 2022-06-14T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2013-11-13T00:00:00.000-08:00
+  endDate: 2022-06-14T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Links \n* [Vejledning om migrering](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Ofte stillede spørgsmål om Explorer-/Edge-livscyklus](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Understøttede operativsystemer til Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Understøttede operativsystemer til Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)"

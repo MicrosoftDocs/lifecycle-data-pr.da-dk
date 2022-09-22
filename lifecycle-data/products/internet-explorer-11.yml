@@ -2,16 +2,16 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 følger komponentlivscykluspolitikken.
-  ms.date: 01/25/2022
-  keywords: IE
-  ms.openlocfilehash: 5086bcdf51ebfb0315c4f4660193adab3be31a4e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/05/19
+  keywords: browser,IE,ie11
+  ms.openlocfilehash: f1a0ee829ae28cfd4b3b580a9c3d296bd822b4a5
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: da-DK
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4114364"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518594"
 name: Internet Explorer 11
-summary: "Internet Explorer 11 følger [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykluspolitikken. \n\n\n\n\n> [!IMPORTANT]\n> Desktopprogrammet Internet Explorer (IE) 11 slutter support af Windows 10 halvårlig kanal fra 15. juni 2022. Kunder opfordres til at flytte til Microsoft Edge med IE-tilstand. IE-tilstand muliggør bagudkompatibilitet og understøttes indtil mindst 2029. Derudover giver Microsoft besked et år inden IE-tilstand trækkes tilbage. Gå [hertil](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) for at få en liste over understøttede operativsystemer til Internet Explorer, herunder versioner, der påvirkes af denne meddelelse.\n\n"
+summary: "Internet Explorer 11 følger [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykluspolitikken. \n\n\n\n\n> [!IMPORTANT]\n> Desktopprogrammet Internet Explorer (IE) 11 slutter support af Windows 10 semi-annual-kanal fra 15. juni 2022. Kunder opfordres til at flytte til Microsoft Edge med IE-tilstand. IE-tilstand muliggør bagudkompatibilitet og understøttes indtil mindst 2029. Derudover giver Microsoft besked et år inden IE-tilstand trækkes tilbage. Gå [hertil](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) for at få en liste over understøttede operativsystemer til Internet Explorer, herunder versioner, der påvirkes af denne meddelelse.\n\n"
 products:
 - internet-explorer
 policyType: component

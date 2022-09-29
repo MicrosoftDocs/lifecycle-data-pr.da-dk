@@ -1,13 +1,13 @@
 ---
 title: Produkter, hvor support ophører i 2023
 description: Find ud af, hvilke produkter, der udgår, ikke længere supporteres eller overgår fra generel support til udvidet support i 2023.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521052"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526860"
 ---
 # <a name="products-ending-support-in-2023"></a>Produkter, hvor support ophører i 2023
 
@@ -36,13 +36,12 @@ Følgende produktudgivelser, der er underlagt den [moderne politik](/lifecycle/p
 | Produkt | Slutdato for servicering |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, version 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2. februar 2023 |
-| [Microsoft Endpoint Configuration Manager, version 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 12. februar 2023 |
 | [Dynamics 365 Business Central på stedet (moderne politik), 2021-udgivelse bølge 2, version 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12. april 2023 |
 | [Windows 10 Enterprise og Education, version 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, version 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 9. maj 2023 |
 | [Microsoft Endpoint Configuration Manager, version 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1. juni 2023 |
 | [Windows 10 Home and Pro, version 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | 13. juni 2023 |
 | [Microsoft Endpoint Configuration Manager, version 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 6. oktober 2023 |
-| [Dynamics 365 Business Central på stedet (moderne politik), 2022-udgivelse bølge 1, version 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home og Pro (version 21H2), oprindelig version (version 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 10. oktober 2023 |
+| [Dynamics 365 Business Central på stedet (moderne politik), 2022-udgivelse bølge 1, version 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home og Pro, version 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 10. oktober 2023 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Ophør af support for produkterne
